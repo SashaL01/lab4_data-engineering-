@@ -1,0 +1,1001 @@
+maintenance_id,repair_request_date,equipment_name,equipment_id,install_date,fault_type,fault_severity,fault_description,repair_status,repair_cost
+M00001,2025-03-01,cisco_router,EQUIP54632,2024-12-10,software update,Средняя,Обнаружена software update после 25 дней эксплуатации,Отклонена,0
+M00002,2025-03-01,cisco_switch,EQUIP99493,2024-12-30,dust cleaning,Высокая,Обнаружена dust cleaning после 4 дней эксплуатации,Отклонена,5000
+M00003,2025-03-02,scaner,EQUIP41711,2024-12-18,port testing,Высокая,Обнаружена port testing после 28 дней эксплуатации,Отклонена,2000
+M00004,2025-03-02,printer,EQUIP47008,2025-01-17,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 26 дней эксплуатации,Решена,1000
+M00005,2025-03-04,scaner,EQUIP83474,2025-01-15,software update,Низкая,Обнаружена software update после 7 дней эксплуатации,Решена,0
+M00006,2025-03-06,cisco_switch,EQUIP26003,2025-01-06,software update,Низкая,Обнаружена software update после 2 дней эксплуатации,Новая,2000
+M00007,2025-03-07,nas,EQUIP22988,2024-12-23,port testing,Средняя,Обнаружена port testing после 21 дней эксплуатации,Новая,10000
+M00008,2025-03-09,cisco_switch,EQUIP60795,2025-02-26,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 2 дней эксплуатации,Новая,2000
+M00009,2025-03-10,printer,EQUIP88006,2025-01-02,dust cleaning,Низкая,Обнаружена dust cleaning после 11 дней эксплуатации,В обработке,0
+M00010,2025-03-11,ip_phone,EQUIP44507,2025-02-02,software update,Низкая,Обнаружена software update после 4 дней эксплуатации,Отклонена,10000
+M00011,2025-03-13,cisco_router,EQUIP45366,2025-02-18,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 26 дней эксплуатации,Решена,0
+M00012,2025-03-14,printer,EQUIP17520,2025-02-14,port testing,Низкая,Обнаружена port testing после 29 дней эксплуатации,В обработке,1000
+M00013,2025-03-14,pc,EQUIP91161,2024-12-14,error log analysis,Средняя,Обнаружена error log analysis после 15 дней эксплуатации,В обработке,1000
+M00014,2025-03-15,printer,EQUIP79898,2025-01-04,dust cleaning,Средняя,Обнаружена dust cleaning после 23 дней эксплуатации,Решена,10000
+M00015,2025-03-17,ip_phone,EQUIP63595,2025-01-10,software update,Средняя,Обнаружена software update после 2 дней эксплуатации,Решена,1000
+M00016,2025-03-19,cisco_router,EQUIP91137,2025-01-21,software update,Высокая,Обнаружена software update после 27 дней эксплуатации,В обработке,2000
+M00017,2025-03-20,ip_phone,EQUIP64820,2025-02-20,port testing,Низкая,Обнаружена port testing после 12 дней эксплуатации,В обработке,1000
+M00018,2025-03-20,cisco_router,EQUIP73145,2024-12-28,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 10 дней эксплуатации,Решена,10000
+M00019,2025-03-21,nas,EQUIP29951,2025-01-10,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 5 дней эксплуатации,Решена,10000
+M00020,2025-03-22,nas,EQUIP64940,2025-03-17,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 19 дней эксплуатации,Новая,0
+M00021,2025-03-23,pc,EQUIP36337,2025-03-10,dust cleaning,Низкая,Обнаружена dust cleaning после 6 дней эксплуатации,Новая,10000
+M00022,2025-03-23,pc,EQUIP22668,2025-01-05,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 4 дней эксплуатации,В обработке,10000
+M00023,2025-03-23,cisco_switch,EQUIP62415,2024-12-23,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 26 дней эксплуатации,Новая,0
+M00024,2025-03-24,ip_phone,EQUIP20267,2025-01-14,software update,Средняя,Обнаружена software update после 2 дней эксплуатации,Решена,2000
+M00025,2025-03-26,cisco_switch,EQUIP59397,2025-03-06,error log analysis,Высокая,Обнаружена error log analysis после 1 дней эксплуатации,Новая,1000
+M00026,2025-03-28,scaner,EQUIP75959,2025-02-18,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 24 дней эксплуатации,Новая,10000
+M00027,2025-03-28,cisco_router,EQUIP18026,2025-01-05,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 6 дней эксплуатации,Отклонена,0
+M00028,2025-03-30,scaner,EQUIP16770,2025-02-14,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 1 дней эксплуатации,Новая,10000
+M00029,2025-04-01,cisco_switch,EQUIP33495,2025-03-19,software update,Средняя,Обнаружена software update после 12 дней эксплуатации,Отклонена,5000
+M00030,2025-04-03,printer,EQUIP36961,2025-03-29,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 15 дней эксплуатации,Отклонена,5000
+M00031,2025-04-03,printer,EQUIP73678,2025-01-09,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 4 дней эксплуатации,В обработке,10000
+M00032,2025-04-03,pc,EQUIP45804,2025-03-29,dust cleaning,Средняя,Обнаружена dust cleaning после 8 дней эксплуатации,Новая,10000
+M00033,2025-04-03,pc,EQUIP60734,2025-01-31,dust cleaning,Низкая,Обнаружена dust cleaning после 25 дней эксплуатации,Новая,1000
+M00034,2025-04-05,ip_phone,EQUIP15426,2025-03-20,port testing,Низкая,Обнаружена port testing после 26 дней эксплуатации,Отклонена,0
+M00035,2025-04-06,cisco_switch,EQUIP53613,2025-02-05,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 19 дней эксплуатации,Отклонена,2000
+M00036,2025-04-07,pc,EQUIP73738,2025-03-15,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 28 дней эксплуатации,Новая,5000
+M00037,2025-04-08,nas,EQUIP26826,2025-01-14,dust cleaning,Средняя,Обнаружена dust cleaning после 3 дней эксплуатации,Решена,5000
+M00038,2025-04-10,cisco_switch,EQUIP73488,2025-02-04,error log analysis,Средняя,Обнаружена error log analysis после 3 дней эксплуатации,В обработке,10000
+M00039,2025-04-11,ip_phone,EQUIP60267,2025-03-20,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 16 дней эксплуатации,Отклонена,0
+M00040,2025-04-13,cisco_router,EQUIP93169,2025-02-12,error log analysis,Низкая,Обнаружена error log analysis после 19 дней эксплуатации,Решена,10000
+M00041,2025-04-13,printer,EQUIP40561,2025-02-28,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 27 дней эксплуатации,В обработке,1000
+M00042,2025-04-15,printer,EQUIP14815,2025-02-24,software update,Низкая,Обнаружена software update после 21 дней эксплуатации,Решена,0
+M00043,2025-04-15,cisco_switch,EQUIP61870,2025-03-06,dust cleaning,Средняя,Обнаружена dust cleaning после 26 дней эксплуатации,Решена,2000
+M00044,2025-04-17,pc,EQUIP28438,2025-03-08,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 16 дней эксплуатации,Новая,10000
+M00045,2025-04-19,cisco_switch,EQUIP74518,2025-01-20,software update,Низкая,Обнаружена software update после 10 дней эксплуатации,Новая,5000
+M00046,2025-04-20,scaner,EQUIP42287,2025-01-31,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 17 дней эксплуатации,В обработке,1000
+M00047,2025-04-21,nas,EQUIP24349,2025-02-23,error log analysis,Высокая,Обнаружена error log analysis после 5 дней эксплуатации,В обработке,1000
+M00048,2025-04-22,pc,EQUIP80553,2025-03-03,error log analysis,Средняя,Обнаружена error log analysis после 13 дней эксплуатации,Новая,1000
+M00049,2025-04-23,scaner,EQUIP48183,2025-03-23,error log analysis,Высокая,Обнаружена error log analysis после 14 дней эксплуатации,Отклонена,1000
+M00050,2025-04-24,ip_phone,EQUIP72431,2025-04-05,software update,Низкая,Обнаружена software update после 9 дней эксплуатации,Новая,1000
+M00051,2025-04-26,cisco_switch,EQUIP53477,2025-02-06,port testing,Высокая,Обнаружена port testing после 7 дней эксплуатации,Отклонена,0
+M00052,2025-04-28,cisco_router,EQUIP86522,2025-03-08,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 8 дней эксплуатации,В обработке,10000
+M00053,2025-04-30,ip_phone,EQUIP27998,2025-03-30,dust cleaning,Средняя,Обнаружена dust cleaning после 17 дней эксплуатации,Отклонена,2000
+M00054,2025-04-30,cisco_switch,EQUIP14355,2025-03-14,software update,Низкая,Обнаружена software update после 30 дней эксплуатации,Решена,2000
+M00055,2025-04-30,scaner,EQUIP59494,2025-03-16,software update,Низкая,Обнаружена software update после 12 дней эксплуатации,Решена,2000
+M00056,2025-05-01,ip_phone,EQUIP43660,2025-03-31,port testing,Низкая,Обнаружена port testing после 6 дней эксплуатации,В обработке,0
+M00057,2025-05-02,ip_phone,EQUIP85501,2025-03-30,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 15 дней эксплуатации,Новая,10000
+M00058,2025-05-02,nas,EQUIP25107,2025-04-28,error log analysis,Средняя,Обнаружена error log analysis после 6 дней эксплуатации,Новая,2000
+M00059,2025-05-04,printer,EQUIP49451,2025-03-09,software update,Высокая,Обнаружена software update после 5 дней эксплуатации,Решена,10000
+M00060,2025-05-06,ip_phone,EQUIP40789,2025-02-12,error log analysis,Средняя,Обнаружена error log analysis после 27 дней эксплуатации,Отклонена,5000
+M00061,2025-05-07,scaner,EQUIP36796,2025-04-11,error log analysis,Низкая,Обнаружена error log analysis после 16 дней эксплуатации,Новая,2000
+M00062,2025-05-09,cisco_router,EQUIP20968,2025-02-19,software update,Средняя,Обнаружена software update после 23 дней эксплуатации,Решена,5000
+M00063,2025-05-11,pc,EQUIP77686,2025-04-23,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 19 дней эксплуатации,В обработке,1000
+M00064,2025-05-13,printer,EQUIP60886,2025-03-26,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 21 дней эксплуатации,Решена,2000
+M00065,2025-05-14,nas,EQUIP76969,2025-02-23,error log analysis,Средняя,Обнаружена error log analysis после 19 дней эксплуатации,Отклонена,1000
+M00066,2025-05-16,printer,EQUIP59770,2025-03-12,port testing,Высокая,Обнаружена port testing после 12 дней эксплуатации,Новая,5000
+M00067,2025-05-17,cisco_router,EQUIP94697,2025-02-21,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 15 дней эксплуатации,Решена,1000
+M00068,2025-05-18,scaner,EQUIP64786,2025-02-19,port testing,Низкая,Обнаружена port testing после 13 дней эксплуатации,В обработке,0
+M00069,2025-05-19,nas,EQUIP74140,2025-02-20,dust cleaning,Высокая,Обнаружена dust cleaning после 4 дней эксплуатации,Решена,0
+M00070,2025-05-19,scaner,EQUIP17387,2025-03-08,software update,Средняя,Обнаружена software update после 10 дней эксплуатации,Отклонена,2000
+M00071,2025-05-21,scaner,EQUIP30312,2025-03-14,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 20 дней эксплуатации,Отклонена,2000
+M00072,2025-05-22,pc,EQUIP40854,2025-03-05,dust cleaning,Средняя,Обнаружена dust cleaning после 6 дней эксплуатации,Решена,2000
+M00073,2025-05-24,cisco_router,EQUIP80876,2025-02-26,software update,Низкая,Обнаружена software update после 29 дней эксплуатации,Отклонена,5000
+M00074,2025-05-26,printer,EQUIP52520,2025-04-30,software update,Высокая,Обнаружена software update после 4 дней эксплуатации,Отклонена,0
+M00075,2025-05-28,cisco_switch,EQUIP94000,2025-04-05,port testing,Высокая,Обнаружена port testing после 2 дней эксплуатации,Новая,1000
+M00076,2025-05-29,nas,EQUIP85642,2025-05-18,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 5 дней эксплуатации,Новая,5000
+M00077,2025-05-30,ip_phone,EQUIP48425,2025-04-13,error log analysis,Низкая,Обнаружена error log analysis после 2 дней эксплуатации,В обработке,1000
+M00078,2025-05-30,scaner,EQUIP41330,2025-05-18,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 23 дней эксплуатации,Отклонена,10000
+M00079,2025-05-31,scaner,EQUIP46402,2025-03-31,port testing,Высокая,Обнаружена port testing после 27 дней эксплуатации,В обработке,0
+M00080,2025-06-01,printer,EQUIP56583,2025-05-23,port testing,Низкая,Обнаружена port testing после 18 дней эксплуатации,В обработке,2000
+M00081,2025-06-01,scaner,EQUIP44550,2025-04-06,dust cleaning,Средняя,Обнаружена dust cleaning после 24 дней эксплуатации,Новая,0
+M00082,2025-06-02,ip_phone,EQUIP16017,2025-03-25,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 26 дней эксплуатации,Новая,5000
+M00083,2025-06-03,printer,EQUIP30714,2025-04-30,error log analysis,Высокая,Обнаружена error log analysis после 3 дней эксплуатации,Новая,1000
+M00084,2025-06-04,cisco_router,EQUIP31152,2025-03-29,dust cleaning,Высокая,Обнаружена dust cleaning после 6 дней эксплуатации,Решена,10000
+M00085,2025-06-05,ip_phone,EQUIP63276,2025-04-23,port testing,Средняя,Обнаружена port testing после 12 дней эксплуатации,Решена,1000
+M00086,2025-06-06,ip_phone,EQUIP57187,2025-05-22,port testing,Средняя,Обнаружена port testing после 13 дней эксплуатации,В обработке,10000
+M00087,2025-06-07,pc,EQUIP60994,2025-04-13,software update,Высокая,Обнаружена software update после 8 дней эксплуатации,Решена,0
+M00088,2025-06-08,pc,EQUIP12380,2025-03-11,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 9 дней эксплуатации,В обработке,0
+M00089,2025-06-09,scaner,EQUIP52623,2025-05-03,error log analysis,Средняя,Обнаружена error log analysis после 8 дней эксплуатации,В обработке,10000
+M00090,2025-06-11,scaner,EQUIP51642,2025-05-25,dust cleaning,Высокая,Обнаружена dust cleaning после 16 дней эксплуатации,Новая,0
+M00091,2025-06-12,ip_phone,EQUIP12694,2025-04-04,port testing,Высокая,Обнаружена port testing после 15 дней эксплуатации,Решена,5000
+M00092,2025-06-12,pc,EQUIP97046,2025-04-07,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 30 дней эксплуатации,В обработке,5000
+M00093,2025-06-12,pc,EQUIP13866,2025-05-16,port testing,Высокая,Обнаружена port testing после 12 дней эксплуатации,Отклонена,1000
+M00094,2025-06-13,scaner,EQUIP84961,2025-04-13,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 9 дней эксплуатации,Отклонена,1000
+M00095,2025-06-15,ip_phone,EQUIP94538,2025-04-02,software update,Высокая,Обнаружена software update после 15 дней эксплуатации,Отклонена,5000
+M00096,2025-06-15,cisco_switch,EQUIP73587,2025-04-05,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 21 дней эксплуатации,Новая,5000
+M00097,2025-06-15,cisco_router,EQUIP77923,2025-04-26,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 16 дней эксплуатации,Решена,5000
+M00098,2025-06-17,scaner,EQUIP12261,2025-04-21,software update,Средняя,Обнаружена software update после 7 дней эксплуатации,Новая,2000
+M00099,2025-06-17,cisco_router,EQUIP82603,2025-03-25,error log analysis,Средняя,Обнаружена error log analysis после 10 дней эксплуатации,Отклонена,2000
+M00100,2025-06-18,cisco_router,EQUIP78014,2025-05-10,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 19 дней эксплуатации,Отклонена,5000
+M00101,2025-06-20,printer,EQUIP18696,2025-04-01,port testing,Высокая,Обнаружена port testing после 15 дней эксплуатации,В обработке,2000
+M00102,2025-06-21,printer,EQUIP83803,2025-05-29,dust cleaning,Средняя,Обнаружена dust cleaning после 5 дней эксплуатации,Новая,2000
+M00103,2025-06-23,ip_phone,EQUIP95417,2025-05-26,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 21 дней эксплуатации,Новая,5000
+M00104,2025-06-23,printer,EQUIP56380,2025-06-11,error log analysis,Высокая,Обнаружена error log analysis после 24 дней эксплуатации,Отклонена,5000
+M00105,2025-06-23,scaner,EQUIP95364,2025-04-17,error log analysis,Высокая,Обнаружена error log analysis после 8 дней эксплуатации,В обработке,1000
+M00106,2025-06-23,nas,EQUIP82178,2025-05-20,port testing,Низкая,Обнаружена port testing после 18 дней эксплуатации,Отклонена,2000
+M00107,2025-06-24,nas,EQUIP35732,2025-04-21,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 13 дней эксплуатации,Решена,2000
+M00108,2025-06-24,printer,EQUIP92058,2025-04-16,port testing,Высокая,Обнаружена port testing после 20 дней эксплуатации,В обработке,10000
+M00109,2025-06-25,printer,EQUIP75075,2025-06-11,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 2 дней эксплуатации,В обработке,10000
+M00110,2025-06-25,printer,EQUIP57851,2025-06-03,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 14 дней эксплуатации,В обработке,1000
+M00111,2025-06-26,scaner,EQUIP71800,2025-05-10,dust cleaning,Низкая,Обнаружена dust cleaning после 22 дней эксплуатации,Новая,2000
+M00112,2025-06-27,nas,EQUIP90573,2025-05-26,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 27 дней эксплуатации,Решена,2000
+M00113,2025-06-27,pc,EQUIP12588,2025-04-15,error log analysis,Средняя,Обнаружена error log analysis после 24 дней эксплуатации,В обработке,5000
+M00114,2025-06-27,pc,EQUIP10091,2025-06-19,port testing,Средняя,Обнаружена port testing после 27 дней эксплуатации,Новая,0
+M00115,2025-06-29,cisco_router,EQUIP53577,2025-06-27,port testing,Высокая,Обнаружена port testing после 30 дней эксплуатации,Новая,1000
+M00116,2025-06-30,cisco_router,EQUIP65957,2025-05-14,dust cleaning,Средняя,Обнаружена dust cleaning после 2 дней эксплуатации,Решена,0
+M00117,2025-07-01,pc,EQUIP26014,2025-06-24,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 29 дней эксплуатации,Новая,2000
+M00118,2025-07-01,ip_phone,EQUIP95875,2025-06-22,software update,Средняя,Обнаружена software update после 16 дней эксплуатации,Новая,2000
+M00119,2025-07-02,cisco_switch,EQUIP41544,2025-05-11,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 29 дней эксплуатации,В обработке,1000
+M00120,2025-07-03,scaner,EQUIP19944,2025-06-12,dust cleaning,Низкая,Обнаружена dust cleaning после 10 дней эксплуатации,В обработке,2000
+M00121,2025-07-03,printer,EQUIP35043,2025-05-23,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 9 дней эксплуатации,В обработке,5000
+M00122,2025-07-04,ip_phone,EQUIP26281,2025-04-21,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 23 дней эксплуатации,В обработке,1000
+M00123,2025-07-06,nas,EQUIP18329,2025-06-07,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 27 дней эксплуатации,Решена,5000
+M00124,2025-07-06,nas,EQUIP75120,2025-06-01,port testing,Высокая,Обнаружена port testing после 5 дней эксплуатации,Решена,5000
+M00125,2025-07-06,printer,EQUIP71250,2025-06-01,port testing,Высокая,Обнаружена port testing после 28 дней эксплуатации,Решена,10000
+M00126,2025-07-07,printer,EQUIP29682,2025-05-09,error log analysis,Высокая,Обнаружена error log analysis после 11 дней эксплуатации,Отклонена,0
+M00127,2025-07-09,cisco_switch,EQUIP91080,2025-05-06,port testing,Средняя,Обнаружена port testing после 26 дней эксплуатации,В обработке,5000
+M00128,2025-07-09,cisco_switch,EQUIP32465,2025-05-08,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 23 дней эксплуатации,Решена,0
+M00129,2025-07-11,cisco_switch,EQUIP79789,2025-05-25,error log analysis,Низкая,Обнаружена error log analysis после 11 дней эксплуатации,Отклонена,0
+M00130,2025-07-13,cisco_router,EQUIP36211,2025-04-15,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 8 дней эксплуатации,Отклонена,10000
+M00131,2025-07-13,scaner,EQUIP70609,2025-04-23,software update,Низкая,Обнаружена software update после 18 дней эксплуатации,В обработке,10000
+M00132,2025-07-15,ip_phone,EQUIP71125,2025-06-13,software update,Высокая,Обнаружена software update после 16 дней эксплуатации,Отклонена,5000
+M00133,2025-07-16,printer,EQUIP78710,2025-06-10,software update,Средняя,Обнаружена software update после 11 дней эксплуатации,Новая,1000
+M00134,2025-07-17,ip_phone,EQUIP97720,2025-06-26,software update,Высокая,Обнаружена software update после 19 дней эксплуатации,Новая,0
+M00135,2025-07-19,nas,EQUIP52583,2025-07-07,port testing,Средняя,Обнаружена port testing после 29 дней эксплуатации,Отклонена,2000
+M00136,2025-07-20,scaner,EQUIP60299,2025-04-27,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 11 дней эксплуатации,Решена,10000
+M00137,2025-07-22,cisco_switch,EQUIP58740,2025-05-11,port testing,Низкая,Обнаружена port testing после 27 дней эксплуатации,Новая,2000
+M00138,2025-07-22,scaner,EQUIP69267,2025-05-01,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 28 дней эксплуатации,Решена,1000
+M00139,2025-07-24,cisco_router,EQUIP14871,2025-05-12,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 18 дней эксплуатации,В обработке,0
+M00140,2025-07-25,printer,EQUIP73004,2025-06-24,dust cleaning,Высокая,Обнаружена dust cleaning после 8 дней эксплуатации,В обработке,5000
+M00141,2025-07-25,pc,EQUIP23623,2025-06-09,dust cleaning,Высокая,Обнаружена dust cleaning после 25 дней эксплуатации,В обработке,0
+M00142,2025-07-25,printer,EQUIP76449,2025-06-29,error log analysis,Высокая,Обнаружена error log analysis после 8 дней эксплуатации,Решена,5000
+M00143,2025-07-25,ip_phone,EQUIP31002,2025-06-10,dust cleaning,Высокая,Обнаружена dust cleaning после 11 дней эксплуатации,В обработке,1000
+M00144,2025-07-25,cisco_switch,EQUIP92253,2025-06-19,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 11 дней эксплуатации,Новая,0
+M00145,2025-07-27,printer,EQUIP76337,2025-07-14,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 25 дней эксплуатации,Решена,0
+M00146,2025-07-28,cisco_switch,EQUIP97092,2025-07-22,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 9 дней эксплуатации,Отклонена,1000
+M00147,2025-07-28,cisco_switch,EQUIP50516,2025-07-10,software update,Средняя,Обнаружена software update после 24 дней эксплуатации,Отклонена,10000
+M00148,2025-07-28,nas,EQUIP16435,2025-07-04,software update,Высокая,Обнаружена software update после 25 дней эксплуатации,Отклонена,2000
+M00149,2025-07-30,pc,EQUIP82260,2025-05-26,port testing,Средняя,Обнаружена port testing после 16 дней эксплуатации,Отклонена,2000
+M00150,2025-07-30,cisco_switch,EQUIP66083,2025-07-05,software update,Средняя,Обнаружена software update после 27 дней эксплуатации,В обработке,5000
+M00151,2025-08-01,nas,EQUIP52488,2025-05-03,dust cleaning,Высокая,Обнаружена dust cleaning после 22 дней эксплуатации,Отклонена,10000
+M00152,2025-08-03,cisco_switch,EQUIP27737,2025-05-23,dust cleaning,Средняя,Обнаружена dust cleaning после 15 дней эксплуатации,В обработке,2000
+M00153,2025-08-05,pc,EQUIP47951,2025-07-14,software update,Низкая,Обнаружена software update после 7 дней эксплуатации,Новая,0
+M00154,2025-08-06,cisco_router,EQUIP36151,2025-08-03,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 17 дней эксплуатации,Решена,10000
+M00155,2025-08-08,cisco_router,EQUIP30607,2025-06-28,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 27 дней эксплуатации,В обработке,0
+M00156,2025-08-10,printer,EQUIP76366,2025-05-29,software update,Средняя,Обнаружена software update после 29 дней эксплуатации,Новая,0
+M00157,2025-08-12,cisco_router,EQUIP65389,2025-06-01,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 17 дней эксплуатации,Решена,1000
+M00158,2025-08-13,cisco_switch,EQUIP47063,2025-07-21,dust cleaning,Низкая,Обнаружена dust cleaning после 28 дней эксплуатации,Отклонена,0
+M00159,2025-08-13,cisco_router,EQUIP32565,2025-06-19,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 19 дней эксплуатации,Новая,0
+M00160,2025-08-15,cisco_switch,EQUIP84237,2025-07-18,error log analysis,Низкая,Обнаружена error log analysis после 16 дней эксплуатации,Отклонена,1000
+M00161,2025-08-15,ip_phone,EQUIP10535,2025-08-12,error log analysis,Средняя,Обнаружена error log analysis после 24 дней эксплуатации,Отклонена,1000
+M00162,2025-08-15,cisco_switch,EQUIP82838,2025-05-31,software update,Высокая,Обнаружена software update после 7 дней эксплуатации,Отклонена,1000
+M00163,2025-08-16,printer,EQUIP24656,2025-07-14,software update,Низкая,Обнаружена software update после 2 дней эксплуатации,Решена,10000
+M00164,2025-08-18,printer,EQUIP29557,2025-08-13,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 26 дней эксплуатации,Решена,0
+M00165,2025-08-18,cisco_router,EQUIP55997,2025-05-25,dust cleaning,Высокая,Обнаружена dust cleaning после 10 дней эксплуатации,Отклонена,1000
+M00166,2025-08-20,cisco_router,EQUIP98459,2025-07-19,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 4 дней эксплуатации,Решена,0
+M00167,2025-08-21,printer,EQUIP21388,2025-05-24,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 27 дней эксплуатации,В обработке,0
+M00168,2025-08-22,cisco_router,EQUIP20291,2025-06-02,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 6 дней эксплуатации,Новая,5000
+M00169,2025-08-23,cisco_router,EQUIP47739,2025-07-29,dust cleaning,Средняя,Обнаружена dust cleaning после 26 дней эксплуатации,В обработке,0
+M00170,2025-08-23,scaner,EQUIP93201,2025-08-21,error log analysis,Высокая,Обнаружена error log analysis после 19 дней эксплуатации,Новая,0
+M00171,2025-08-23,cisco_router,EQUIP81669,2025-06-19,software update,Средняя,Обнаружена software update после 22 дней эксплуатации,В обработке,0
+M00172,2025-08-24,cisco_router,EQUIP56803,2025-07-01,error log analysis,Низкая,Обнаружена error log analysis после 17 дней эксплуатации,Новая,2000
+M00173,2025-08-24,printer,EQUIP69870,2025-07-08,error log analysis,Средняя,Обнаружена error log analysis после 11 дней эксплуатации,Новая,10000
+M00174,2025-08-24,cisco_switch,EQUIP25384,2025-07-12,port testing,Средняя,Обнаружена port testing после 2 дней эксплуатации,Решена,5000
+M00175,2025-08-24,scaner,EQUIP28794,2025-07-06,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 16 дней эксплуатации,В обработке,5000
+M00176,2025-08-25,scaner,EQUIP84712,2025-08-13,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 6 дней эксплуатации,Новая,10000
+M00177,2025-08-27,pc,EQUIP23449,2025-06-16,error log analysis,Высокая,Обнаружена error log analysis после 23 дней эксплуатации,Новая,10000
+M00178,2025-08-28,cisco_switch,EQUIP45857,2025-06-26,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 30 дней эксплуатации,Решена,5000
+M00179,2025-08-29,nas,EQUIP12872,2025-07-24,error log analysis,Средняя,Обнаружена error log analysis после 7 дней эксплуатации,Новая,2000
+M00180,2025-08-31,pc,EQUIP45830,2025-08-30,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 28 дней эксплуатации,Новая,5000
+M00181,2025-08-31,printer,EQUIP72895,2025-08-16,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 2 дней эксплуатации,Отклонена,5000
+M00182,2025-09-02,cisco_router,EQUIP17531,2025-06-28,error log analysis,Средняя,Обнаружена error log analysis после 12 дней эксплуатации,Решена,2000
+M00183,2025-09-02,cisco_switch,EQUIP40271,2025-07-06,software update,Низкая,Обнаружена software update после 19 дней эксплуатации,В обработке,5000
+M00184,2025-09-04,pc,EQUIP11677,2025-07-19,error log analysis,Средняя,Обнаружена error log analysis после 1 дней эксплуатации,В обработке,1000
+M00185,2025-09-06,nas,EQUIP21306,2025-08-15,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 10 дней эксплуатации,Новая,5000
+M00186,2025-09-07,ip_phone,EQUIP62795,2025-08-05,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 13 дней эксплуатации,В обработке,1000
+M00187,2025-09-07,nas,EQUIP12005,2025-06-11,port testing,Средняя,Обнаружена port testing после 21 дней эксплуатации,В обработке,5000
+M00188,2025-09-09,printer,EQUIP12340,2025-06-26,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 29 дней эксплуатации,В обработке,5000
+M00189,2025-09-11,ip_phone,EQUIP17317,2025-07-29,port testing,Низкая,Обнаружена port testing после 24 дней эксплуатации,Решена,5000
+M00190,2025-09-12,cisco_switch,EQUIP97248,2025-07-26,error log analysis,Средняя,Обнаружена error log analysis после 21 дней эксплуатации,В обработке,2000
+M00191,2025-09-12,pc,EQUIP18112,2025-09-07,error log analysis,Средняя,Обнаружена error log analysis после 14 дней эксплуатации,Новая,1000
+M00192,2025-09-14,cisco_switch,EQUIP92982,2025-08-14,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 30 дней эксплуатации,В обработке,5000
+M00193,2025-09-15,ip_phone,EQUIP87197,2025-06-18,dust cleaning,Средняя,Обнаружена dust cleaning после 6 дней эксплуатации,В обработке,0
+M00194,2025-09-15,scaner,EQUIP47303,2025-08-14,error log analysis,Средняя,Обнаружена error log analysis после 3 дней эксплуатации,Отклонена,10000
+M00195,2025-09-17,printer,EQUIP41083,2025-09-12,port testing,Низкая,Обнаружена port testing после 14 дней эксплуатации,Новая,2000
+M00196,2025-09-18,scaner,EQUIP90108,2025-07-29,software update,Низкая,Обнаружена software update после 6 дней эксплуатации,Отклонена,5000
+M00197,2025-09-19,scaner,EQUIP65726,2025-08-10,error log analysis,Высокая,Обнаружена error log analysis после 10 дней эксплуатации,Новая,5000
+M00198,2025-09-20,printer,EQUIP10925,2025-07-31,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 9 дней эксплуатации,В обработке,5000
+M00199,2025-09-22,cisco_switch,EQUIP55374,2025-08-07,dust cleaning,Высокая,Обнаружена dust cleaning после 17 дней эксплуатации,В обработке,0
+M00200,2025-09-22,nas,EQUIP43425,2025-08-27,error log analysis,Низкая,Обнаружена error log analysis после 13 дней эксплуатации,В обработке,5000
+M00201,2025-09-23,printer,EQUIP85419,2025-08-15,error log analysis,Низкая,Обнаружена error log analysis после 5 дней эксплуатации,Решена,2000
+M00202,2025-09-25,scaner,EQUIP94744,2025-08-13,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 14 дней эксплуатации,В обработке,5000
+M00203,2025-09-27,pc,EQUIP81083,2025-08-13,port testing,Средняя,Обнаружена port testing после 23 дней эксплуатации,В обработке,10000
+M00204,2025-09-28,ip_phone,EQUIP14672,2025-07-01,software update,Высокая,Обнаружена software update после 18 дней эксплуатации,Решена,0
+M00205,2025-09-28,printer,EQUIP72371,2025-08-10,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 29 дней эксплуатации,Новая,1000
+M00206,2025-09-30,printer,EQUIP18404,2025-08-22,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 6 дней эксплуатации,Отклонена,2000
+M00207,2025-09-30,cisco_router,EQUIP69365,2025-09-16,error log analysis,Средняя,Обнаружена error log analysis после 17 дней эксплуатации,Отклонена,2000
+M00208,2025-10-02,cisco_router,EQUIP34269,2025-09-29,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 26 дней эксплуатации,Отклонена,5000
+M00209,2025-10-02,cisco_router,EQUIP57848,2025-08-12,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 25 дней эксплуатации,Новая,0
+M00210,2025-10-03,pc,EQUIP88308,2025-08-02,software update,Средняя,Обнаружена software update после 23 дней эксплуатации,Решена,10000
+M00211,2025-10-04,printer,EQUIP14353,2025-07-09,software update,Низкая,Обнаружена software update после 20 дней эксплуатации,Новая,5000
+M00212,2025-10-04,pc,EQUIP18568,2025-09-19,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 9 дней эксплуатации,Новая,1000
+M00213,2025-10-04,scaner,EQUIP80868,2025-07-06,software update,Средняя,Обнаружена software update после 20 дней эксплуатации,В обработке,10000
+M00214,2025-10-05,pc,EQUIP68663,2025-08-23,port testing,Высокая,Обнаружена port testing после 15 дней эксплуатации,Новая,5000
+M00215,2025-10-06,pc,EQUIP56336,2025-08-30,software update,Средняя,Обнаружена software update после 5 дней эксплуатации,Отклонена,0
+M00216,2025-10-06,ip_phone,EQUIP42876,2025-08-28,error log analysis,Высокая,Обнаружена error log analysis после 30 дней эксплуатации,Решена,5000
+M00217,2025-10-06,ip_phone,EQUIP76286,2025-08-05,error log analysis,Низкая,Обнаружена error log analysis после 20 дней эксплуатации,В обработке,10000
+M00218,2025-10-08,ip_phone,EQUIP23003,2025-09-12,dust cleaning,Низкая,Обнаружена dust cleaning после 22 дней эксплуатации,В обработке,2000
+M00219,2025-10-10,cisco_router,EQUIP66673,2025-09-16,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 19 дней эксплуатации,Решена,0
+M00220,2025-10-11,ip_phone,EQUIP14032,2025-08-13,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 2 дней эксплуатации,Новая,5000
+M00221,2025-10-12,cisco_router,EQUIP14547,2025-08-05,port testing,Средняя,Обнаружена port testing после 9 дней эксплуатации,Новая,10000
+M00222,2025-10-14,nas,EQUIP40963,2025-07-26,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 4 дней эксплуатации,Отклонена,1000
+M00223,2025-10-16,cisco_router,EQUIP24596,2025-07-20,software update,Средняя,Обнаружена software update после 22 дней эксплуатации,Решена,10000
+M00224,2025-10-16,printer,EQUIP88278,2025-10-08,dust cleaning,Низкая,Обнаружена dust cleaning после 30 дней эксплуатации,Решена,0
+M00225,2025-10-18,ip_phone,EQUIP79313,2025-07-24,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 14 дней эксплуатации,Отклонена,1000
+M00226,2025-10-20,printer,EQUIP76602,2025-10-08,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 27 дней эксплуатации,Новая,0
+M00227,2025-10-21,cisco_router,EQUIP27668,2025-09-12,error log analysis,Средняя,Обнаружена error log analysis после 15 дней эксплуатации,Решена,0
+M00228,2025-10-21,cisco_router,EQUIP77013,2025-07-29,dust cleaning,Низкая,Обнаружена dust cleaning после 2 дней эксплуатации,Новая,2000
+M00229,2025-10-23,cisco_router,EQUIP89342,2025-10-14,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 28 дней эксплуатации,Решена,10000
+M00230,2025-10-25,cisco_switch,EQUIP15676,2025-08-06,error log analysis,Высокая,Обнаружена error log analysis после 3 дней эксплуатации,Решена,10000
+M00231,2025-10-25,cisco_router,EQUIP75128,2025-09-01,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 14 дней эксплуатации,В обработке,0
+M00232,2025-10-25,cisco_switch,EQUIP37554,2025-10-02,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 2 дней эксплуатации,Новая,10000
+M00233,2025-10-25,nas,EQUIP35569,2025-10-09,port testing,Средняя,Обнаружена port testing после 8 дней эксплуатации,Новая,5000
+M00234,2025-10-27,printer,EQUIP71161,2025-07-29,error log analysis,Средняя,Обнаружена error log analysis после 10 дней эксплуатации,Новая,10000
+M00235,2025-10-28,cisco_router,EQUIP92884,2025-08-25,software update,Низкая,Обнаружена software update после 17 дней эксплуатации,Новая,0
+M00236,2025-10-30,scaner,EQUIP73403,2025-10-19,error log analysis,Высокая,Обнаружена error log analysis после 17 дней эксплуатации,Решена,2000
+M00237,2025-11-01,cisco_router,EQUIP92866,2025-10-19,software update,Низкая,Обнаружена software update после 30 дней эксплуатации,Отклонена,1000
+M00238,2025-11-02,cisco_switch,EQUIP94397,2025-10-10,software update,Низкая,Обнаружена software update после 22 дней эксплуатации,Отклонена,5000
+M00239,2025-11-03,ip_phone,EQUIP46404,2025-09-03,port testing,Низкая,Обнаружена port testing после 30 дней эксплуатации,Отклонена,5000
+M00240,2025-11-05,cisco_switch,EQUIP39787,2025-10-16,dust cleaning,Средняя,Обнаружена dust cleaning после 11 дней эксплуатации,Отклонена,2000
+M00241,2025-11-06,printer,EQUIP13131,2025-10-23,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 27 дней эксплуатации,Новая,0
+M00242,2025-11-07,pc,EQUIP77213,2025-09-15,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 3 дней эксплуатации,В обработке,10000
+M00243,2025-11-07,ip_phone,EQUIP53514,2025-08-28,error log analysis,Высокая,Обнаружена error log analysis после 14 дней эксплуатации,Новая,1000
+M00244,2025-11-08,nas,EQUIP40578,2025-11-01,dust cleaning,Высокая,Обнаружена dust cleaning после 17 дней эксплуатации,Отклонена,5000
+M00245,2025-11-09,cisco_router,EQUIP31853,2025-10-26,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 28 дней эксплуатации,Отклонена,1000
+M00246,2025-11-09,pc,EQUIP40871,2025-09-20,dust cleaning,Высокая,Обнаружена dust cleaning после 6 дней эксплуатации,Отклонена,2000
+M00247,2025-11-09,ip_phone,EQUIP14741,2025-10-15,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 2 дней эксплуатации,В обработке,0
+M00248,2025-11-09,ip_phone,EQUIP14471,2025-08-29,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 30 дней эксплуатации,В обработке,2000
+M00249,2025-11-10,scaner,EQUIP35443,2025-10-20,software update,Низкая,Обнаружена software update после 14 дней эксплуатации,В обработке,1000
+M00250,2025-11-11,scaner,EQUIP53383,2025-10-01,dust cleaning,Средняя,Обнаружена dust cleaning после 11 дней эксплуатации,Новая,2000
+M00251,2025-11-11,scaner,EQUIP65392,2025-09-06,port testing,Средняя,Обнаружена port testing после 2 дней эксплуатации,Решена,0
+M00252,2025-11-12,pc,EQUIP34749,2025-09-28,port testing,Средняя,Обнаружена port testing после 28 дней эксплуатации,Решена,1000
+M00253,2025-11-14,scaner,EQUIP66846,2025-08-20,port testing,Средняя,Обнаружена port testing после 11 дней эксплуатации,Отклонена,2000
+M00254,2025-11-14,nas,EQUIP90533,2025-10-24,software update,Средняя,Обнаружена software update после 22 дней эксплуатации,Новая,0
+M00255,2025-11-14,pc,EQUIP26630,2025-09-28,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 5 дней эксплуатации,Решена,1000
+M00256,2025-11-15,cisco_router,EQUIP81944,2025-09-28,error log analysis,Низкая,Обнаружена error log analysis после 26 дней эксплуатации,Отклонена,0
+M00257,2025-11-16,nas,EQUIP35221,2025-10-18,dust cleaning,Высокая,Обнаружена dust cleaning после 17 дней эксплуатации,Отклонена,1000
+M00258,2025-11-17,cisco_switch,EQUIP87215,2025-11-13,port testing,Средняя,Обнаружена port testing после 28 дней эксплуатации,В обработке,0
+M00259,2025-11-19,cisco_router,EQUIP89023,2025-08-28,dust cleaning,Высокая,Обнаружена dust cleaning после 5 дней эксплуатации,Новая,0
+M00260,2025-11-21,ip_phone,EQUIP21746,2025-10-17,dust cleaning,Низкая,Обнаружена dust cleaning после 7 дней эксплуатации,Новая,1000
+M00261,2025-11-22,printer,EQUIP43399,2025-09-22,software update,Низкая,Обнаружена software update после 8 дней эксплуатации,Отклонена,2000
+M00262,2025-11-23,printer,EQUIP24092,2025-11-03,dust cleaning,Низкая,Обнаружена dust cleaning после 23 дней эксплуатации,В обработке,0
+M00263,2025-11-23,ip_phone,EQUIP33915,2025-10-25,error log analysis,Высокая,Обнаружена error log analysis после 12 дней эксплуатации,В обработке,2000
+M00264,2025-11-24,ip_phone,EQUIP48916,2025-09-26,port testing,Высокая,Обнаружена port testing после 15 дней эксплуатации,В обработке,10000
+M00265,2025-11-24,ip_phone,EQUIP35405,2025-10-19,error log analysis,Низкая,Обнаружена error log analysis после 18 дней эксплуатации,В обработке,0
+M00266,2025-11-25,printer,EQUIP59786,2025-11-09,port testing,Средняя,Обнаружена port testing после 21 дней эксплуатации,Отклонена,1000
+M00267,2025-11-26,cisco_router,EQUIP91792,2025-11-19,software update,Низкая,Обнаружена software update после 11 дней эксплуатации,Решена,2000
+M00268,2025-11-27,ip_phone,EQUIP16112,2025-11-04,port testing,Средняя,Обнаружена port testing после 13 дней эксплуатации,Решена,0
+M00269,2025-11-28,nas,EQUIP10078,2025-09-26,dust cleaning,Высокая,Обнаружена dust cleaning после 12 дней эксплуатации,Решена,5000
+M00270,2025-11-28,scaner,EQUIP28236,2025-09-02,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 1 дней эксплуатации,Новая,2000
+M00271,2025-11-30,pc,EQUIP89792,2025-09-17,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 4 дней эксплуатации,Новая,0
+M00272,2025-12-02,scaner,EQUIP99114,2025-10-03,error log analysis,Средняя,Обнаружена error log analysis после 30 дней эксплуатации,Отклонена,5000
+M00273,2025-12-02,ip_phone,EQUIP90498,2025-09-30,dust cleaning,Высокая,Обнаружена dust cleaning после 11 дней эксплуатации,Решена,10000
+M00274,2025-12-04,ip_phone,EQUIP91521,2025-09-17,port testing,Высокая,Обнаружена port testing после 24 дней эксплуатации,В обработке,1000
+M00275,2025-12-05,pc,EQUIP66864,2025-09-06,port testing,Высокая,Обнаружена port testing после 29 дней эксплуатации,В обработке,10000
+M00276,2025-12-06,pc,EQUIP52482,2025-09-30,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 8 дней эксплуатации,Решена,1000
+M00277,2025-12-07,cisco_switch,EQUIP86479,2025-12-06,port testing,Низкая,Обнаружена port testing после 18 дней эксплуатации,Новая,5000
+M00278,2025-12-09,printer,EQUIP19968,2025-11-08,port testing,Средняя,Обнаружена port testing после 25 дней эксплуатации,В обработке,10000
+M00279,2025-12-10,printer,EQUIP56633,2025-11-06,dust cleaning,Высокая,Обнаружена dust cleaning после 13 дней эксплуатации,Решена,10000
+M00280,2025-12-11,printer,EQUIP65904,2025-11-06,port testing,Высокая,Обнаружена port testing после 8 дней эксплуатации,Новая,2000
+M00281,2025-12-12,pc,EQUIP97202,2025-10-27,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 17 дней эксплуатации,В обработке,0
+M00282,2025-12-12,cisco_switch,EQUIP70409,2025-12-04,error log analysis,Низкая,Обнаружена error log analysis после 28 дней эксплуатации,Новая,0
+M00283,2025-12-13,cisco_router,EQUIP31245,2025-09-18,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 25 дней эксплуатации,Отклонена,10000
+M00284,2025-12-14,cisco_router,EQUIP89742,2025-09-23,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 19 дней эксплуатации,Решена,1000
+M00285,2025-12-16,pc,EQUIP47231,2025-10-03,error log analysis,Низкая,Обнаружена error log analysis после 17 дней эксплуатации,Новая,2000
+M00286,2025-12-18,ip_phone,EQUIP14887,2025-09-23,dust cleaning,Средняя,Обнаружена dust cleaning после 27 дней эксплуатации,Новая,1000
+M00287,2025-12-19,scaner,EQUIP87115,2025-12-12,software update,Высокая,Обнаружена software update после 2 дней эксплуатации,Решена,10000
+M00288,2025-12-21,cisco_router,EQUIP99441,2025-11-04,port testing,Средняя,Обнаружена port testing после 8 дней эксплуатации,В обработке,5000
+M00289,2025-12-23,nas,EQUIP50081,2025-11-03,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 16 дней эксплуатации,Отклонена,0
+M00290,2025-12-25,pc,EQUIP70027,2025-11-27,error log analysis,Низкая,Обнаружена error log analysis после 21 дней эксплуатации,Отклонена,10000
+M00291,2025-12-26,cisco_router,EQUIP87066,2025-10-22,error log analysis,Высокая,Обнаружена error log analysis после 3 дней эксплуатации,В обработке,1000
+M00292,2025-12-28,scaner,EQUIP55894,2025-11-05,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 11 дней эксплуатации,Отклонена,2000
+M00293,2025-12-28,scaner,EQUIP75757,2025-10-12,error log analysis,Низкая,Обнаружена error log analysis после 13 дней эксплуатации,Решена,5000
+M00294,2025-12-30,printer,EQUIP41967,2025-12-26,software update,Средняя,Обнаружена software update после 6 дней эксплуатации,В обработке,5000
+M00295,2025-12-30,nas,EQUIP71378,2025-11-20,error log analysis,Высокая,Обнаружена error log analysis после 26 дней эксплуатации,В обработке,1000
+M00296,2026-01-01,scaner,EQUIP81922,2025-10-04,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 18 дней эксплуатации,В обработке,10000
+M00297,2026-01-01,pc,EQUIP80016,2025-11-17,port testing,Низкая,Обнаружена port testing после 28 дней эксплуатации,В обработке,1000
+M00298,2026-01-03,cisco_router,EQUIP53591,2025-12-08,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 17 дней эксплуатации,Отклонена,2000
+M00299,2026-01-04,cisco_router,EQUIP85676,2025-12-01,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 5 дней эксплуатации,В обработке,0
+M00300,2026-01-05,printer,EQUIP31091,2026-01-04,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 14 дней эксплуатации,Решена,1000
+M00301,2026-01-07,nas,EQUIP29369,2025-12-02,dust cleaning,Средняя,Обнаружена dust cleaning после 18 дней эксплуатации,Решена,2000
+M00302,2026-01-07,ip_phone,EQUIP58316,2025-10-12,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 18 дней эксплуатации,Решена,0
+M00303,2026-01-07,scaner,EQUIP88359,2025-11-10,error log analysis,Высокая,Обнаружена error log analysis после 18 дней эксплуатации,Решена,10000
+M00304,2026-01-08,nas,EQUIP92416,2025-11-19,error log analysis,Средняя,Обнаружена error log analysis после 8 дней эксплуатации,Новая,1000
+M00305,2026-01-08,cisco_switch,EQUIP47295,2025-11-14,port testing,Средняя,Обнаружена port testing после 30 дней эксплуатации,Отклонена,5000
+M00306,2026-01-10,printer,EQUIP82302,2025-10-25,software update,Средняя,Обнаружена software update после 26 дней эксплуатации,В обработке,10000
+M00307,2026-01-10,cisco_switch,EQUIP92040,2025-12-17,port testing,Низкая,Обнаружена port testing после 10 дней эксплуатации,Новая,1000
+M00308,2026-01-11,pc,EQUIP56855,2025-11-13,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 18 дней эксплуатации,Отклонена,10000
+M00309,2026-01-13,nas,EQUIP19968,2025-11-03,port testing,Высокая,Обнаружена port testing после 7 дней эксплуатации,Решена,10000
+M00310,2026-01-13,scaner,EQUIP99584,2025-10-30,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 2 дней эксплуатации,Новая,2000
+M00311,2026-01-15,nas,EQUIP73934,2025-10-24,error log analysis,Высокая,Обнаружена error log analysis после 5 дней эксплуатации,Отклонена,2000
+M00312,2026-01-17,pc,EQUIP22178,2025-10-28,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 9 дней эксплуатации,Отклонена,10000
+M00313,2026-01-19,cisco_router,EQUIP55749,2025-11-14,port testing,Средняя,Обнаружена port testing после 5 дней эксплуатации,В обработке,2000
+M00314,2026-01-21,ip_phone,EQUIP29591,2025-11-20,dust cleaning,Низкая,Обнаружена dust cleaning после 15 дней эксплуатации,В обработке,10000
+M00315,2026-01-21,cisco_router,EQUIP39926,2026-01-14,error log analysis,Средняя,Обнаружена error log analysis после 4 дней эксплуатации,Новая,2000
+M00316,2026-01-23,pc,EQUIP29271,2026-01-17,dust cleaning,Низкая,Обнаружена dust cleaning после 28 дней эксплуатации,Отклонена,5000
+M00317,2026-01-23,printer,EQUIP42001,2026-01-07,error log analysis,Средняя,Обнаружена error log analysis после 11 дней эксплуатации,Новая,5000
+M00318,2026-01-23,ip_phone,EQUIP17488,2025-11-04,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 11 дней эксплуатации,В обработке,5000
+M00319,2026-01-24,pc,EQUIP68583,2025-12-10,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 3 дней эксплуатации,Решена,1000
+M00320,2026-01-24,pc,EQUIP17931,2025-12-07,port testing,Средняя,Обнаружена port testing после 15 дней эксплуатации,В обработке,5000
+M00321,2026-01-26,cisco_switch,EQUIP65722,2026-01-09,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 11 дней эксплуатации,В обработке,2000
+M00322,2026-01-28,scaner,EQUIP55427,2025-10-31,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 20 дней эксплуатации,В обработке,10000
+M00323,2026-01-30,scaner,EQUIP11695,2025-12-11,dust cleaning,Высокая,Обнаружена dust cleaning после 13 дней эксплуатации,В обработке,5000
+M00324,2026-01-31,printer,EQUIP62655,2025-11-24,error log analysis,Высокая,Обнаружена error log analysis после 30 дней эксплуатации,В обработке,0
+M00325,2026-01-31,pc,EQUIP43073,2025-11-26,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 13 дней эксплуатации,Новая,0
+M00326,2026-02-01,cisco_router,EQUIP53676,2026-01-20,error log analysis,Низкая,Обнаружена error log analysis после 14 дней эксплуатации,Решена,5000
+M00327,2026-02-01,cisco_switch,EQUIP10954,2025-11-09,port testing,Высокая,Обнаружена port testing после 15 дней эксплуатации,Новая,1000
+M00328,2026-02-02,cisco_switch,EQUIP55087,2025-12-07,error log analysis,Низкая,Обнаружена error log analysis после 29 дней эксплуатации,Новая,1000
+M00329,2026-02-04,cisco_switch,EQUIP67193,2025-11-28,dust cleaning,Средняя,Обнаружена dust cleaning после 21 дней эксплуатации,Новая,10000
+M00330,2026-02-05,cisco_switch,EQUIP18819,2025-11-13,software update,Низкая,Обнаружена software update после 20 дней эксплуатации,Новая,2000
+M00331,2026-02-05,cisco_switch,EQUIP60731,2026-01-10,dust cleaning,Средняя,Обнаружена dust cleaning после 3 дней эксплуатации,Отклонена,1000
+M00332,2026-02-07,nas,EQUIP21377,2026-01-07,software update,Высокая,Обнаружена software update после 6 дней эксплуатации,Новая,1000
+M00333,2026-02-09,printer,EQUIP10980,2025-12-14,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 14 дней эксплуатации,Отклонена,0
+M00334,2026-02-09,ip_phone,EQUIP41251,2026-01-19,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 10 дней эксплуатации,В обработке,5000
+M00335,2026-02-11,cisco_switch,EQUIP89608,2025-11-30,software update,Высокая,Обнаружена software update после 1 дней эксплуатации,Решена,2000
+M00336,2026-02-12,pc,EQUIP66678,2026-02-03,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 23 дней эксплуатации,В обработке,1000
+M00337,2026-02-12,cisco_switch,EQUIP47924,2025-12-30,dust cleaning,Низкая,Обнаружена dust cleaning после 12 дней эксплуатации,Новая,0
+M00338,2026-02-13,nas,EQUIP61775,2025-11-24,software update,Высокая,Обнаружена software update после 6 дней эксплуатации,В обработке,5000
+M00339,2026-02-14,cisco_switch,EQUIP16612,2026-01-26,dust cleaning,Высокая,Обнаружена dust cleaning после 16 дней эксплуатации,Отклонена,5000
+M00340,2026-02-14,cisco_switch,EQUIP33781,2026-02-03,error log analysis,Средняя,Обнаружена error log analysis после 12 дней эксплуатации,Решена,10000
+M00341,2026-02-16,ip_phone,EQUIP10660,2025-12-13,port testing,Низкая,Обнаружена port testing после 8 дней эксплуатации,В обработке,5000
+M00342,2026-02-18,scaner,EQUIP24658,2026-01-23,dust cleaning,Высокая,Обнаружена dust cleaning после 9 дней эксплуатации,Решена,1000
+M00343,2026-02-18,ip_phone,EQUIP17832,2025-12-01,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 16 дней эксплуатации,В обработке,10000
+M00344,2026-02-18,nas,EQUIP28632,2026-01-08,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 4 дней эксплуатации,Отклонена,1000
+M00345,2026-02-18,printer,EQUIP16476,2026-01-22,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 12 дней эксплуатации,Новая,0
+M00346,2026-02-20,scaner,EQUIP50921,2026-01-27,dust cleaning,Низкая,Обнаружена dust cleaning после 29 дней эксплуатации,Отклонена,1000
+M00347,2026-02-20,printer,EQUIP60401,2026-01-06,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 29 дней эксплуатации,Новая,0
+M00348,2026-02-20,scaner,EQUIP16486,2026-01-12,dust cleaning,Высокая,Обнаружена dust cleaning после 2 дней эксплуатации,Новая,2000
+M00349,2026-02-21,cisco_router,EQUIP96052,2026-01-29,port testing,Высокая,Обнаружена port testing после 9 дней эксплуатации,В обработке,1000
+M00350,2026-02-22,cisco_switch,EQUIP38675,2026-02-20,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 10 дней эксплуатации,Отклонена,1000
+M00351,2026-02-22,ip_phone,EQUIP84872,2026-01-27,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 6 дней эксплуатации,Решена,10000
+M00352,2026-02-23,cisco_router,EQUIP11209,2025-12-08,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 16 дней эксплуатации,В обработке,1000
+M00353,2026-02-25,cisco_switch,EQUIP90409,2026-01-03,error log analysis,Низкая,Обнаружена error log analysis после 24 дней эксплуатации,Отклонена,10000
+M00354,2026-02-26,printer,EQUIP42201,2025-12-04,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 20 дней эксплуатации,Отклонена,2000
+M00355,2026-02-28,cisco_router,EQUIP52481,2025-12-18,port testing,Средняя,Обнаружена port testing после 5 дней эксплуатации,В обработке,2000
+M00356,2026-03-02,nas,EQUIP48129,2026-02-21,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 27 дней эксплуатации,Решена,5000
+M00357,2026-03-02,cisco_router,EQUIP47637,2026-02-10,error log analysis,Высокая,Обнаружена error log analysis после 6 дней эксплуатации,Решена,10000
+M00358,2026-03-02,ip_phone,EQUIP57754,2026-02-15,software update,Низкая,Обнаружена software update после 17 дней эксплуатации,Новая,1000
+M00359,2026-03-02,ip_phone,EQUIP28426,2026-03-01,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 30 дней эксплуатации,В обработке,10000
+M00360,2026-03-03,ip_phone,EQUIP48527,2025-12-17,error log analysis,Высокая,Обнаружена error log analysis после 29 дней эксплуатации,Новая,5000
+M00361,2026-03-05,ip_phone,EQUIP55894,2026-02-04,error log analysis,Высокая,Обнаружена error log analysis после 30 дней эксплуатации,Новая,10000
+M00362,2026-03-05,printer,EQUIP47057,2026-02-18,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 18 дней эксплуатации,Решена,2000
+M00363,2026-03-06,ip_phone,EQUIP94456,2025-12-26,port testing,Средняя,Обнаружена port testing после 20 дней эксплуатации,В обработке,5000
+M00364,2026-03-08,cisco_switch,EQUIP77315,2025-12-25,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 16 дней эксплуатации,Решена,0
+M00365,2026-03-09,scaner,EQUIP89144,2026-01-25,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 28 дней эксплуатации,В обработке,10000
+M00366,2026-03-09,cisco_switch,EQUIP98407,2026-02-19,dust cleaning,Средняя,Обнаружена dust cleaning после 8 дней эксплуатации,В обработке,5000
+M00367,2026-03-10,printer,EQUIP76973,2025-12-19,error log analysis,Высокая,Обнаружена error log analysis после 26 дней эксплуатации,Новая,0
+M00368,2026-03-12,cisco_router,EQUIP35209,2026-01-07,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 26 дней эксплуатации,Отклонена,2000
+M00369,2026-03-14,nas,EQUIP17518,2026-01-04,dust cleaning,Низкая,Обнаружена dust cleaning после 14 дней эксплуатации,Отклонена,10000
+M00370,2026-03-16,pc,EQUIP76178,2026-01-14,software update,Низкая,Обнаружена software update после 23 дней эксплуатации,Решена,2000
+M00371,2026-03-16,printer,EQUIP83264,2026-01-28,error log analysis,Низкая,Обнаружена error log analysis после 4 дней эксплуатации,В обработке,10000
+M00372,2026-03-16,printer,EQUIP56838,2026-01-21,dust cleaning,Средняя,Обнаружена dust cleaning после 2 дней эксплуатации,В обработке,1000
+M00373,2026-03-16,nas,EQUIP70377,2026-03-13,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 16 дней эксплуатации,В обработке,1000
+M00374,2026-03-17,nas,EQUIP37400,2025-12-26,dust cleaning,Низкая,Обнаружена dust cleaning после 8 дней эксплуатации,Новая,2000
+M00375,2026-03-18,pc,EQUIP78284,2025-12-29,dust cleaning,Высокая,Обнаружена dust cleaning после 18 дней эксплуатации,В обработке,10000
+M00376,2026-03-20,pc,EQUIP70092,2026-01-09,software update,Низкая,Обнаружена software update после 29 дней эксплуатации,В обработке,0
+M00377,2026-03-22,nas,EQUIP77383,2026-01-31,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 4 дней эксплуатации,Отклонена,10000
+M00378,2026-03-22,ip_phone,EQUIP56932,2026-01-30,dust cleaning,Высокая,Обнаружена dust cleaning после 7 дней эксплуатации,Решена,0
+M00379,2026-03-22,cisco_router,EQUIP27927,2026-02-27,dust cleaning,Средняя,Обнаружена dust cleaning после 4 дней эксплуатации,В обработке,2000
+M00380,2026-03-23,pc,EQUIP12932,2026-03-14,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 22 дней эксплуатации,В обработке,5000
+M00381,2026-03-24,scaner,EQUIP59609,2025-12-26,dust cleaning,Низкая,Обнаружена dust cleaning после 15 дней эксплуатации,Отклонена,1000
+M00382,2026-03-25,pc,EQUIP52880,2026-02-07,error log analysis,Низкая,Обнаружена error log analysis после 13 дней эксплуатации,В обработке,2000
+M00383,2026-03-26,ip_phone,EQUIP46522,2026-02-16,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 23 дней эксплуатации,Решена,5000
+M00384,2026-03-27,scaner,EQUIP14552,2026-01-13,port testing,Средняя,Обнаружена port testing после 16 дней эксплуатации,Отклонена,2000
+M00385,2026-03-27,nas,EQUIP69472,2026-03-14,dust cleaning,Средняя,Обнаружена dust cleaning после 27 дней эксплуатации,Решена,10000
+M00386,2026-03-27,printer,EQUIP36216,2026-01-04,software update,Низкая,Обнаружена software update после 1 дней эксплуатации,Отклонена,2000
+M00387,2026-03-29,ip_phone,EQUIP97760,2026-01-03,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 26 дней эксплуатации,Новая,10000
+M00388,2026-03-31,pc,EQUIP96536,2026-02-13,dust cleaning,Низкая,Обнаружена dust cleaning после 13 дней эксплуатации,Решена,10000
+M00389,2026-04-02,nas,EQUIP17769,2026-01-03,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 9 дней эксплуатации,Решена,1000
+M00390,2026-04-04,cisco_router,EQUIP50611,2026-02-01,error log analysis,Низкая,Обнаружена error log analysis после 3 дней эксплуатации,В обработке,2000
+M00391,2026-04-06,printer,EQUIP54363,2026-02-23,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 9 дней эксплуатации,В обработке,1000
+M00392,2026-04-07,nas,EQUIP29723,2026-02-03,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 13 дней эксплуатации,В обработке,0
+M00393,2026-04-09,pc,EQUIP83272,2026-01-23,error log analysis,Высокая,Обнаружена error log analysis после 30 дней эксплуатации,В обработке,2000
+M00394,2026-04-09,scaner,EQUIP80356,2026-03-27,dust cleaning,Низкая,Обнаружена dust cleaning после 17 дней эксплуатации,В обработке,2000
+M00395,2026-04-10,printer,EQUIP99328,2026-02-15,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 16 дней эксплуатации,Отклонена,0
+M00396,2026-04-10,cisco_switch,EQUIP99869,2026-02-12,software update,Высокая,Обнаружена software update после 29 дней эксплуатации,В обработке,2000
+M00397,2026-04-12,cisco_switch,EQUIP78183,2026-03-12,port testing,Высокая,Обнаружена port testing после 14 дней эксплуатации,В обработке,5000
+M00398,2026-04-14,cisco_switch,EQUIP21891,2026-03-19,error log analysis,Высокая,Обнаружена error log analysis после 14 дней эксплуатации,В обработке,5000
+M00399,2026-04-16,cisco_switch,EQUIP92781,2026-01-17,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 11 дней эксплуатации,Решена,5000
+M00400,2026-04-16,cisco_switch,EQUIP61499,2026-04-02,port testing,Средняя,Обнаружена port testing после 26 дней эксплуатации,Отклонена,5000
+M00401,2026-04-16,cisco_router,EQUIP11539,2026-03-12,dust cleaning,Средняя,Обнаружена dust cleaning после 7 дней эксплуатации,Отклонена,2000
+M00402,2026-04-16,scaner,EQUIP47103,2026-03-18,port testing,Высокая,Обнаружена port testing после 2 дней эксплуатации,Новая,5000
+M00403,2026-04-18,scaner,EQUIP80655,2026-03-12,dust cleaning,Средняя,Обнаружена dust cleaning после 12 дней эксплуатации,Решена,2000
+M00404,2026-04-20,cisco_switch,EQUIP41299,2026-02-25,port testing,Низкая,Обнаружена port testing после 4 дней эксплуатации,Новая,10000
+M00405,2026-04-22,scaner,EQUIP41244,2026-02-05,error log analysis,Средняя,Обнаружена error log analysis после 30 дней эксплуатации,В обработке,2000
+M00406,2026-04-23,pc,EQUIP84321,2026-02-01,port testing,Средняя,Обнаружена port testing после 12 дней эксплуатации,Новая,0
+M00407,2026-04-23,nas,EQUIP29613,2026-02-06,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 16 дней эксплуатации,Отклонена,5000
+M00408,2026-04-23,printer,EQUIP23694,2026-02-05,error log analysis,Средняя,Обнаружена error log analysis после 12 дней эксплуатации,Новая,10000
+M00409,2026-04-23,cisco_switch,EQUIP65450,2026-03-05,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 5 дней эксплуатации,Новая,10000
+M00410,2026-04-23,scaner,EQUIP85225,2026-04-11,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 30 дней эксплуатации,Новая,5000
+M00411,2026-04-25,ip_phone,EQUIP56989,2026-04-15,software update,Высокая,Обнаружена software update после 15 дней эксплуатации,В обработке,2000
+M00412,2026-04-27,printer,EQUIP84011,2026-03-08,dust cleaning,Высокая,Обнаружена dust cleaning после 8 дней эксплуатации,В обработке,5000
+M00413,2026-04-27,nas,EQUIP58161,2026-04-02,dust cleaning,Высокая,Обнаружена dust cleaning после 24 дней эксплуатации,Отклонена,0
+M00414,2026-04-28,ip_phone,EQUIP68376,2026-03-08,dust cleaning,Низкая,Обнаружена dust cleaning после 2 дней эксплуатации,Новая,5000
+M00415,2026-04-30,cisco_switch,EQUIP27325,2026-03-21,error log analysis,Средняя,Обнаружена error log analysis после 3 дней эксплуатации,Отклонена,10000
+M00416,2026-04-30,nas,EQUIP30825,2026-04-07,software update,Высокая,Обнаружена software update после 8 дней эксплуатации,В обработке,1000
+M00417,2026-05-01,scaner,EQUIP32987,2026-04-30,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 16 дней эксплуатации,Отклонена,5000
+M00418,2026-05-03,printer,EQUIP85281,2026-04-07,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 24 дней эксплуатации,Решена,0
+M00419,2026-05-03,cisco_switch,EQUIP81609,2026-02-28,error log analysis,Низкая,Обнаружена error log analysis после 30 дней эксплуатации,В обработке,2000
+M00420,2026-05-05,ip_phone,EQUIP94236,2026-04-07,dust cleaning,Средняя,Обнаружена dust cleaning после 18 дней эксплуатации,Решена,10000
+M00421,2026-05-07,cisco_switch,EQUIP68213,2026-02-07,port testing,Средняя,Обнаружена port testing после 28 дней эксплуатации,Решена,0
+M00422,2026-05-08,pc,EQUIP49665,2026-03-17,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 19 дней эксплуатации,Решена,5000
+M00423,2026-05-08,cisco_router,EQUIP86588,2026-04-21,error log analysis,Средняя,Обнаружена error log analysis после 4 дней эксплуатации,Новая,2000
+M00424,2026-05-09,printer,EQUIP79212,2026-04-21,dust cleaning,Средняя,Обнаружена dust cleaning после 7 дней эксплуатации,Отклонена,0
+M00425,2026-05-09,scaner,EQUIP83564,2026-03-21,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 15 дней эксплуатации,Решена,1000
+M00426,2026-05-10,scaner,EQUIP39848,2026-02-22,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 6 дней эксплуатации,Новая,1000
+M00427,2026-05-12,ip_phone,EQUIP39250,2026-03-19,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 14 дней эксплуатации,Решена,10000
+M00428,2026-05-12,cisco_switch,EQUIP52526,2026-05-09,port testing,Средняя,Обнаружена port testing после 21 дней эксплуатации,В обработке,1000
+M00429,2026-05-12,printer,EQUIP50020,2026-03-18,error log analysis,Низкая,Обнаружена error log analysis после 5 дней эксплуатации,Решена,10000
+M00430,2026-05-12,cisco_switch,EQUIP25952,2026-04-16,error log analysis,Средняя,Обнаружена error log analysis после 25 дней эксплуатации,Новая,10000
+M00431,2026-05-14,ip_phone,EQUIP22423,2026-02-15,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 26 дней эксплуатации,Отклонена,2000
+M00432,2026-05-14,nas,EQUIP19453,2026-02-25,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 23 дней эксплуатации,Отклонена,0
+M00433,2026-05-16,scaner,EQUIP56223,2026-04-26,port testing,Средняя,Обнаружена port testing после 9 дней эксплуатации,Новая,0
+M00434,2026-05-17,pc,EQUIP48101,2026-05-04,dust cleaning,Низкая,Обнаружена dust cleaning после 24 дней эксплуатации,Решена,2000
+M00435,2026-05-18,scaner,EQUIP97988,2026-05-12,error log analysis,Высокая,Обнаружена error log analysis после 13 дней эксплуатации,В обработке,10000
+M00436,2026-05-20,nas,EQUIP90243,2026-03-27,software update,Высокая,Обнаружена software update после 19 дней эксплуатации,Отклонена,10000
+M00437,2026-05-22,cisco_router,EQUIP75227,2026-03-15,dust cleaning,Высокая,Обнаружена dust cleaning после 3 дней эксплуатации,Новая,10000
+M00438,2026-05-24,cisco_router,EQUIP42890,2026-03-23,dust cleaning,Высокая,Обнаружена dust cleaning после 7 дней эксплуатации,Отклонена,1000
+M00439,2026-05-26,ip_phone,EQUIP48287,2026-05-21,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 25 дней эксплуатации,В обработке,10000
+M00440,2026-05-28,printer,EQUIP69240,2026-03-30,software update,Высокая,Обнаружена software update после 23 дней эксплуатации,Отклонена,10000
+M00441,2026-05-30,scaner,EQUIP73724,2026-04-18,software update,Низкая,Обнаружена software update после 18 дней эксплуатации,В обработке,5000
+M00442,2026-06-01,cisco_router,EQUIP97911,2026-05-05,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 30 дней эксплуатации,Решена,10000
+M00443,2026-06-01,nas,EQUIP39662,2026-05-03,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 28 дней эксплуатации,Новая,0
+M00444,2026-06-01,printer,EQUIP13470,2026-05-14,software update,Низкая,Обнаружена software update после 12 дней эксплуатации,Новая,10000
+M00445,2026-06-01,scaner,EQUIP13638,2026-04-17,port testing,Средняя,Обнаружена port testing после 4 дней эксплуатации,В обработке,1000
+M00446,2026-06-03,nas,EQUIP49354,2026-05-14,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 23 дней эксплуатации,Решена,2000
+M00447,2026-06-04,scaner,EQUIP44487,2026-04-24,software update,Низкая,Обнаружена software update после 8 дней эксплуатации,В обработке,1000
+M00448,2026-06-06,printer,EQUIP64926,2026-03-24,software update,Высокая,Обнаружена software update после 5 дней эксплуатации,Решена,1000
+M00449,2026-06-08,cisco_router,EQUIP70805,2026-06-03,port testing,Низкая,Обнаружена port testing после 21 дней эксплуатации,Отклонена,5000
+M00450,2026-06-09,cisco_router,EQUIP78407,2026-04-27,error log analysis,Средняя,Обнаружена error log analysis после 8 дней эксплуатации,Новая,10000
+M00451,2026-06-11,cisco_switch,EQUIP94023,2026-04-26,error log analysis,Низкая,Обнаружена error log analysis после 17 дней эксплуатации,Решена,5000
+M00452,2026-06-12,ip_phone,EQUIP35792,2026-04-06,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 28 дней эксплуатации,Решена,10000
+M00453,2026-06-12,pc,EQUIP39232,2026-04-21,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 9 дней эксплуатации,В обработке,2000
+M00454,2026-06-13,printer,EQUIP55262,2026-03-20,software update,Средняя,Обнаружена software update после 17 дней эксплуатации,Новая,2000
+M00455,2026-06-15,cisco_router,EQUIP15623,2026-06-03,software update,Высокая,Обнаружена software update после 25 дней эксплуатации,В обработке,2000
+M00456,2026-06-15,scaner,EQUIP25396,2026-04-03,port testing,Средняя,Обнаружена port testing после 20 дней эксплуатации,Отклонена,10000
+M00457,2026-06-15,printer,EQUIP99383,2026-06-08,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 22 дней эксплуатации,Решена,1000
+M00458,2026-06-17,scaner,EQUIP31701,2026-03-26,port testing,Низкая,Обнаружена port testing после 3 дней эксплуатации,Решена,0
+M00459,2026-06-19,ip_phone,EQUIP30080,2026-05-10,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 22 дней эксплуатации,Новая,0
+M00460,2026-06-21,cisco_router,EQUIP92267,2026-04-01,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 18 дней эксплуатации,Отклонена,0
+M00461,2026-06-22,pc,EQUIP98062,2026-06-09,dust cleaning,Высокая,Обнаружена dust cleaning после 26 дней эксплуатации,Новая,5000
+M00462,2026-06-22,nas,EQUIP56238,2026-06-09,error log analysis,Высокая,Обнаружена error log analysis после 4 дней эксплуатации,Отклонена,10000
+M00463,2026-06-22,cisco_router,EQUIP29052,2026-06-20,port testing,Низкая,Обнаружена port testing после 5 дней эксплуатации,В обработке,10000
+M00464,2026-06-22,ip_phone,EQUIP61348,2026-05-23,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 24 дней эксплуатации,Отклонена,5000
+M00465,2026-06-24,ip_phone,EQUIP40056,2026-06-03,error log analysis,Высокая,Обнаружена error log analysis после 13 дней эксплуатации,В обработке,5000
+M00466,2026-06-25,pc,EQUIP25083,2026-04-22,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 3 дней эксплуатации,Решена,0
+M00467,2026-06-27,pc,EQUIP97549,2026-06-16,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 11 дней эксплуатации,В обработке,10000
+M00468,2026-06-28,scaner,EQUIP93763,2026-05-30,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 9 дней эксплуатации,Отклонена,1000
+M00469,2026-06-30,nas,EQUIP32652,2026-04-02,software update,Высокая,Обнаружена software update после 21 дней эксплуатации,Отклонена,0
+M00470,2026-07-01,ip_phone,EQUIP12806,2026-04-18,software update,Средняя,Обнаружена software update после 30 дней эксплуатации,В обработке,0
+M00471,2026-07-02,scaner,EQUIP55812,2026-04-19,dust cleaning,Низкая,Обнаружена dust cleaning после 2 дней эксплуатации,Отклонена,10000
+M00472,2026-07-02,nas,EQUIP25128,2026-07-01,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 12 дней эксплуатации,Отклонена,0
+M00473,2026-07-04,cisco_switch,EQUIP22028,2026-04-26,port testing,Высокая,Обнаружена port testing после 9 дней эксплуатации,Отклонена,5000
+M00474,2026-07-04,scaner,EQUIP76275,2026-06-18,error log analysis,Низкая,Обнаружена error log analysis после 7 дней эксплуатации,Отклонена,10000
+M00475,2026-07-05,cisco_router,EQUIP10278,2026-04-11,port testing,Средняя,Обнаружена port testing после 13 дней эксплуатации,В обработке,10000
+M00476,2026-07-06,scaner,EQUIP69389,2026-05-13,software update,Средняя,Обнаружена software update после 26 дней эксплуатации,Новая,2000
+M00477,2026-07-06,cisco_router,EQUIP15278,2026-05-24,port testing,Низкая,Обнаружена port testing после 10 дней эксплуатации,В обработке,5000
+M00478,2026-07-06,printer,EQUIP29511,2026-05-16,port testing,Высокая,Обнаружена port testing после 25 дней эксплуатации,Решена,5000
+M00479,2026-07-08,nas,EQUIP24002,2026-07-05,port testing,Средняя,Обнаружена port testing после 30 дней эксплуатации,В обработке,0
+M00480,2026-07-10,printer,EQUIP17527,2026-04-17,port testing,Средняя,Обнаружена port testing после 12 дней эксплуатации,Отклонена,0
+M00481,2026-07-10,ip_phone,EQUIP16231,2026-04-26,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 29 дней эксплуатации,Новая,10000
+M00482,2026-07-12,nas,EQUIP66238,2026-06-22,software update,Высокая,Обнаружена software update после 6 дней эксплуатации,Отклонена,5000
+M00483,2026-07-12,scaner,EQUIP81528,2026-06-04,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 2 дней эксплуатации,Отклонена,2000
+M00484,2026-07-14,pc,EQUIP44630,2026-06-13,software update,Средняя,Обнаружена software update после 22 дней эксплуатации,Новая,2000
+M00485,2026-07-14,cisco_switch,EQUIP25303,2026-06-23,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 29 дней эксплуатации,Новая,0
+M00486,2026-07-15,cisco_switch,EQUIP94044,2026-06-19,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 28 дней эксплуатации,В обработке,10000
+M00487,2026-07-16,scaner,EQUIP65767,2026-07-04,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 7 дней эксплуатации,Отклонена,1000
+M00488,2026-07-17,printer,EQUIP60911,2026-05-04,error log analysis,Низкая,Обнаружена error log analysis после 13 дней эксплуатации,Отклонена,5000
+M00489,2026-07-17,scaner,EQUIP27110,2026-05-08,port testing,Низкая,Обнаружена port testing после 21 дней эксплуатации,Новая,1000
+M00490,2026-07-17,printer,EQUIP51080,2026-06-17,software update,Высокая,Обнаружена software update после 6 дней эксплуатации,Новая,1000
+M00491,2026-07-19,cisco_router,EQUIP41645,2026-06-15,dust cleaning,Низкая,Обнаружена dust cleaning после 26 дней эксплуатации,Отклонена,1000
+M00492,2026-07-21,cisco_router,EQUIP83847,2026-05-14,error log analysis,Средняя,Обнаружена error log analysis после 4 дней эксплуатации,В обработке,10000
+M00493,2026-07-21,cisco_switch,EQUIP97780,2026-04-23,error log analysis,Высокая,Обнаружена error log analysis после 7 дней эксплуатации,Новая,1000
+M00494,2026-07-21,ip_phone,EQUIP98740,2026-05-10,port testing,Высокая,Обнаружена port testing после 1 дней эксплуатации,Отклонена,0
+M00495,2026-07-23,ip_phone,EQUIP80459,2026-05-06,dust cleaning,Высокая,Обнаружена dust cleaning после 2 дней эксплуатации,Отклонена,1000
+M00496,2026-07-23,nas,EQUIP37396,2026-05-11,error log analysis,Высокая,Обнаружена error log analysis после 1 дней эксплуатации,В обработке,1000
+M00497,2026-07-25,ip_phone,EQUIP75977,2026-06-30,error log analysis,Высокая,Обнаружена error log analysis после 18 дней эксплуатации,В обработке,10000
+M00498,2026-07-26,nas,EQUIP73636,2026-05-10,software update,Низкая,Обнаружена software update после 30 дней эксплуатации,Отклонена,1000
+M00499,2026-07-26,scaner,EQUIP18095,2026-04-29,software update,Высокая,Обнаружена software update после 21 дней эксплуатации,Новая,5000
+M00500,2026-07-27,ip_phone,EQUIP24640,2026-05-03,port testing,Средняя,Обнаружена port testing после 14 дней эксплуатации,Решена,0
+M00501,2026-07-28,pc,EQUIP23875,2026-07-03,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 28 дней эксплуатации,Решена,1000
+M00502,2026-07-29,ip_phone,EQUIP52478,2026-05-02,software update,Высокая,Обнаружена software update после 2 дней эксплуатации,Решена,10000
+M00503,2026-07-31,pc,EQUIP10351,2026-05-26,dust cleaning,Средняя,Обнаружена dust cleaning после 5 дней эксплуатации,Новая,10000
+M00504,2026-07-31,cisco_switch,EQUIP58036,2026-07-12,dust cleaning,Низкая,Обнаружена dust cleaning после 13 дней эксплуатации,Отклонена,10000
+M00505,2026-08-02,printer,EQUIP71973,2026-05-09,port testing,Средняя,Обнаружена port testing после 3 дней эксплуатации,Новая,1000
+M00506,2026-08-02,pc,EQUIP46483,2026-07-20,dust cleaning,Средняя,Обнаружена dust cleaning после 19 дней эксплуатации,Отклонена,1000
+M00507,2026-08-04,pc,EQUIP42313,2026-07-03,port testing,Высокая,Обнаружена port testing после 6 дней эксплуатации,Решена,5000
+M00508,2026-08-04,pc,EQUIP52309,2026-07-23,port testing,Низкая,Обнаружена port testing после 5 дней эксплуатации,В обработке,10000
+M00509,2026-08-04,printer,EQUIP98119,2026-07-31,error log analysis,Высокая,Обнаружена error log analysis после 28 дней эксплуатации,Решена,1000
+M00510,2026-08-04,scaner,EQUIP93812,2026-05-19,error log analysis,Высокая,Обнаружена error log analysis после 23 дней эксплуатации,Новая,0
+M00511,2026-08-04,scaner,EQUIP29741,2026-05-30,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 20 дней эксплуатации,В обработке,1000
+M00512,2026-08-05,cisco_switch,EQUIP54186,2026-07-07,port testing,Высокая,Обнаружена port testing после 17 дней эксплуатации,Отклонена,2000
+M00513,2026-08-05,cisco_router,EQUIP40220,2026-07-06,software update,Средняя,Обнаружена software update после 6 дней эксплуатации,Решена,10000
+M00514,2026-08-07,nas,EQUIP87213,2026-07-17,dust cleaning,Высокая,Обнаружена dust cleaning после 2 дней эксплуатации,Новая,10000
+M00515,2026-08-07,cisco_router,EQUIP18106,2026-06-06,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 28 дней эксплуатации,Отклонена,2000
+M00516,2026-08-07,pc,EQUIP42312,2026-07-05,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 12 дней эксплуатации,Отклонена,2000
+M00517,2026-08-07,ip_phone,EQUIP45361,2026-05-27,error log analysis,Высокая,Обнаружена error log analysis после 26 дней эксплуатации,В обработке,0
+M00518,2026-08-09,cisco_router,EQUIP98838,2026-05-14,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 5 дней эксплуатации,Отклонена,10000
+M00519,2026-08-11,cisco_router,EQUIP65668,2026-05-15,port testing,Низкая,Обнаружена port testing после 25 дней эксплуатации,Решена,2000
+M00520,2026-08-13,ip_phone,EQUIP24709,2026-07-15,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 20 дней эксплуатации,В обработке,5000
+M00521,2026-08-13,scaner,EQUIP95608,2026-06-12,dust cleaning,Низкая,Обнаружена dust cleaning после 3 дней эксплуатации,Новая,1000
+M00522,2026-08-14,pc,EQUIP76078,2026-05-20,port testing,Низкая,Обнаружена port testing после 30 дней эксплуатации,Отклонена,0
+M00523,2026-08-16,printer,EQUIP98032,2026-05-23,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 21 дней эксплуатации,Решена,2000
+M00524,2026-08-17,pc,EQUIP41374,2026-06-25,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 5 дней эксплуатации,Отклонена,2000
+M00525,2026-08-19,scaner,EQUIP46324,2026-06-02,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 19 дней эксплуатации,В обработке,0
+M00526,2026-08-19,pc,EQUIP20844,2026-07-07,dust cleaning,Средняя,Обнаружена dust cleaning после 6 дней эксплуатации,Новая,0
+M00527,2026-08-21,printer,EQUIP76590,2026-07-13,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 13 дней эксплуатации,Решена,5000
+M00528,2026-08-21,pc,EQUIP44778,2026-08-08,port testing,Средняя,Обнаружена port testing после 10 дней эксплуатации,Новая,1000
+M00529,2026-08-22,nas,EQUIP58622,2026-07-30,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 3 дней эксплуатации,Решена,1000
+M00530,2026-08-24,printer,EQUIP45528,2026-07-25,port testing,Низкая,Обнаружена port testing после 26 дней эксплуатации,Новая,1000
+M00531,2026-08-25,scaner,EQUIP34595,2026-07-20,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 24 дней эксплуатации,Новая,10000
+M00532,2026-08-26,cisco_router,EQUIP77331,2026-06-26,port testing,Высокая,Обнаружена port testing после 21 дней эксплуатации,В обработке,0
+M00533,2026-08-26,ip_phone,EQUIP26734,2026-07-19,error log analysis,Высокая,Обнаружена error log analysis после 30 дней эксплуатации,Решена,1000
+M00534,2026-08-28,cisco_router,EQUIP32415,2026-06-11,dust cleaning,Низкая,Обнаружена dust cleaning после 18 дней эксплуатации,В обработке,0
+M00535,2026-08-29,nas,EQUIP85648,2026-06-04,error log analysis,Высокая,Обнаружена error log analysis после 29 дней эксплуатации,Решена,1000
+M00536,2026-08-31,pc,EQUIP34465,2026-07-19,error log analysis,Низкая,Обнаружена error log analysis после 1 дней эксплуатации,Отклонена,10000
+M00537,2026-09-01,scaner,EQUIP70347,2026-08-10,software update,Низкая,Обнаружена software update после 2 дней эксплуатации,Решена,5000
+M00538,2026-09-03,pc,EQUIP99756,2026-07-11,port testing,Средняя,Обнаружена port testing после 22 дней эксплуатации,Отклонена,10000
+M00539,2026-09-04,scaner,EQUIP59035,2026-06-19,port testing,Средняя,Обнаружена port testing после 8 дней эксплуатации,Новая,1000
+M00540,2026-09-06,nas,EQUIP55868,2026-09-03,software update,Высокая,Обнаружена software update после 19 дней эксплуатации,Новая,5000
+M00541,2026-09-07,ip_phone,EQUIP75061,2026-06-18,software update,Низкая,Обнаружена software update после 5 дней эксплуатации,Решена,2000
+M00542,2026-09-07,pc,EQUIP39613,2026-07-01,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 7 дней эксплуатации,Решена,1000
+M00543,2026-09-07,ip_phone,EQUIP88697,2026-08-29,dust cleaning,Высокая,Обнаружена dust cleaning после 25 дней эксплуатации,Отклонена,10000
+M00544,2026-09-08,nas,EQUIP19507,2026-08-28,port testing,Низкая,Обнаружена port testing после 29 дней эксплуатации,В обработке,10000
+M00545,2026-09-09,cisco_switch,EQUIP71889,2026-06-16,software update,Средняя,Обнаружена software update после 3 дней эксплуатации,В обработке,1000
+M00546,2026-09-09,ip_phone,EQUIP69178,2026-08-16,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 28 дней эксплуатации,Отклонена,5000
+M00547,2026-09-10,printer,EQUIP31479,2026-09-07,software update,Высокая,Обнаружена software update после 11 дней эксплуатации,Отклонена,2000
+M00548,2026-09-10,printer,EQUIP16915,2026-09-03,software update,Средняя,Обнаружена software update после 11 дней эксплуатации,Решена,5000
+M00549,2026-09-10,nas,EQUIP48310,2026-06-16,port testing,Высокая,Обнаружена port testing после 25 дней эксплуатации,Решена,1000
+M00550,2026-09-11,nas,EQUIP38424,2026-08-30,software update,Высокая,Обнаружена software update после 21 дней эксплуатации,Решена,2000
+M00551,2026-09-13,printer,EQUIP75147,2026-08-19,port testing,Высокая,Обнаружена port testing после 5 дней эксплуатации,Решена,5000
+M00552,2026-09-13,ip_phone,EQUIP10184,2026-08-19,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 4 дней эксплуатации,В обработке,2000
+M00553,2026-09-14,scaner,EQUIP86690,2026-07-25,software update,Высокая,Обнаружена software update после 1 дней эксплуатации,Новая,1000
+M00554,2026-09-14,pc,EQUIP29484,2026-06-19,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 22 дней эксплуатации,Новая,5000
+M00555,2026-09-15,ip_phone,EQUIP28513,2026-07-21,error log analysis,Средняя,Обнаружена error log analysis после 16 дней эксплуатации,Новая,10000
+M00556,2026-09-17,printer,EQUIP90529,2026-07-30,port testing,Высокая,Обнаружена port testing после 21 дней эксплуатации,Решена,5000
+M00557,2026-09-17,printer,EQUIP15991,2026-09-14,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 8 дней эксплуатации,Решена,5000
+M00558,2026-09-18,cisco_router,EQUIP96924,2026-07-07,software update,Высокая,Обнаружена software update после 17 дней эксплуатации,В обработке,2000
+M00559,2026-09-19,cisco_router,EQUIP53231,2026-09-10,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 27 дней эксплуатации,Отклонена,10000
+M00560,2026-09-20,pc,EQUIP23254,2026-07-09,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 7 дней эксплуатации,В обработке,0
+M00561,2026-09-21,nas,EQUIP47671,2026-08-25,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 24 дней эксплуатации,Решена,0
+M00562,2026-09-23,cisco_router,EQUIP37620,2026-09-17,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 3 дней эксплуатации,В обработке,1000
+M00563,2026-09-24,scaner,EQUIP96862,2026-08-06,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 4 дней эксплуатации,Новая,5000
+M00564,2026-09-26,cisco_switch,EQUIP21460,2026-08-22,port testing,Низкая,Обнаружена port testing после 1 дней эксплуатации,Новая,1000
+M00565,2026-09-26,cisco_switch,EQUIP94693,2026-09-09,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 7 дней эксплуатации,Отклонена,2000
+M00566,2026-09-26,printer,EQUIP66284,2026-07-03,software update,Высокая,Обнаружена software update после 8 дней эксплуатации,Решена,5000
+M00567,2026-09-28,cisco_router,EQUIP97263,2026-07-09,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 30 дней эксплуатации,Новая,0
+M00568,2026-09-29,nas,EQUIP69873,2026-07-22,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 25 дней эксплуатации,Отклонена,10000
+M00569,2026-10-01,ip_phone,EQUIP24400,2026-08-20,software update,Средняя,Обнаружена software update после 5 дней эксплуатации,Новая,5000
+M00570,2026-10-01,cisco_switch,EQUIP62959,2026-07-27,error log analysis,Средняя,Обнаружена error log analysis после 13 дней эксплуатации,Решена,10000
+M00571,2026-10-01,nas,EQUIP38441,2026-09-30,error log analysis,Средняя,Обнаружена error log analysis после 18 дней эксплуатации,В обработке,2000
+M00572,2026-10-03,pc,EQUIP73522,2026-07-20,port testing,Высокая,Обнаружена port testing после 24 дней эксплуатации,В обработке,1000
+M00573,2026-10-04,cisco_switch,EQUIP27473,2026-09-24,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 12 дней эксплуатации,В обработке,0
+M00574,2026-10-06,cisco_router,EQUIP98252,2026-09-22,error log analysis,Средняя,Обнаружена error log analysis после 23 дней эксплуатации,Новая,2000
+M00575,2026-10-07,cisco_switch,EQUIP70679,2026-09-18,software update,Низкая,Обнаружена software update после 23 дней эксплуатации,Решена,1000
+M00576,2026-10-09,ip_phone,EQUIP91767,2026-07-13,error log analysis,Средняя,Обнаружена error log analysis после 29 дней эксплуатации,Решена,1000
+M00577,2026-10-09,pc,EQUIP43069,2026-07-15,software update,Средняя,Обнаружена software update после 12 дней эксплуатации,В обработке,10000
+M00578,2026-10-11,pc,EQUIP31523,2026-09-08,dust cleaning,Средняя,Обнаружена dust cleaning после 19 дней эксплуатации,Отклонена,1000
+M00579,2026-10-12,ip_phone,EQUIP31386,2026-08-15,dust cleaning,Высокая,Обнаружена dust cleaning после 19 дней эксплуатации,Новая,10000
+M00580,2026-10-14,cisco_router,EQUIP99732,2026-07-21,dust cleaning,Средняя,Обнаружена dust cleaning после 18 дней эксплуатации,В обработке,10000
+M00581,2026-10-15,printer,EQUIP27259,2026-07-24,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 21 дней эксплуатации,Отклонена,0
+M00582,2026-10-17,cisco_switch,EQUIP16659,2026-08-22,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 18 дней эксплуатации,В обработке,10000
+M00583,2026-10-18,scaner,EQUIP61030,2026-08-09,port testing,Низкая,Обнаружена port testing после 14 дней эксплуатации,В обработке,2000
+M00584,2026-10-18,cisco_router,EQUIP72125,2026-09-13,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 2 дней эксплуатации,Отклонена,5000
+M00585,2026-10-18,scaner,EQUIP90396,2026-08-30,software update,Средняя,Обнаружена software update после 3 дней эксплуатации,Отклонена,5000
+M00586,2026-10-20,ip_phone,EQUIP13230,2026-08-29,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 28 дней эксплуатации,Решена,1000
+M00587,2026-10-22,scaner,EQUIP44880,2026-08-13,software update,Средняя,Обнаружена software update после 11 дней эксплуатации,Отклонена,2000
+M00588,2026-10-24,ip_phone,EQUIP17809,2026-08-21,dust cleaning,Высокая,Обнаружена dust cleaning после 13 дней эксплуатации,Решена,10000
+M00589,2026-10-26,pc,EQUIP88493,2026-09-01,software update,Средняя,Обнаружена software update после 29 дней эксплуатации,Решена,10000
+M00590,2026-10-26,cisco_switch,EQUIP98644,2026-08-14,dust cleaning,Низкая,Обнаружена dust cleaning после 13 дней эксплуатации,Решена,5000
+M00591,2026-10-26,cisco_switch,EQUIP63219,2026-10-03,error log analysis,Низкая,Обнаружена error log analysis после 23 дней эксплуатации,Отклонена,5000
+M00592,2026-10-28,printer,EQUIP25494,2026-08-12,error log analysis,Средняя,Обнаружена error log analysis после 1 дней эксплуатации,Решена,1000
+M00593,2026-10-30,cisco_router,EQUIP30464,2026-10-26,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 20 дней эксплуатации,Отклонена,5000
+M00594,2026-11-01,nas,EQUIP77405,2026-10-21,software update,Низкая,Обнаружена software update после 11 дней эксплуатации,Решена,0
+M00595,2026-11-01,nas,EQUIP90966,2026-08-14,software update,Низкая,Обнаружена software update после 16 дней эксплуатации,Отклонена,0
+M00596,2026-11-03,ip_phone,EQUIP48922,2026-10-21,software update,Низкая,Обнаружена software update после 19 дней эксплуатации,Новая,0
+M00597,2026-11-03,cisco_switch,EQUIP27820,2026-08-18,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 29 дней эксплуатации,Новая,5000
+M00598,2026-11-03,cisco_router,EQUIP77365,2026-08-29,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 5 дней эксплуатации,В обработке,2000
+M00599,2026-11-04,ip_phone,EQUIP97541,2026-09-12,software update,Низкая,Обнаружена software update после 23 дней эксплуатации,Решена,10000
+M00600,2026-11-05,printer,EQUIP19622,2026-10-03,port testing,Высокая,Обнаружена port testing после 30 дней эксплуатации,В обработке,1000
+M00601,2026-11-06,pc,EQUIP79491,2026-08-23,error log analysis,Средняя,Обнаружена error log analysis после 4 дней эксплуатации,Отклонена,0
+M00602,2026-11-07,printer,EQUIP32334,2026-09-03,port testing,Высокая,Обнаружена port testing после 2 дней эксплуатации,В обработке,1000
+M00603,2026-11-09,printer,EQUIP26443,2026-10-29,software update,Низкая,Обнаружена software update после 28 дней эксплуатации,Отклонена,2000
+M00604,2026-11-09,nas,EQUIP53629,2026-10-11,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 27 дней эксплуатации,Новая,1000
+M00605,2026-11-10,cisco_switch,EQUIP57572,2026-10-25,error log analysis,Высокая,Обнаружена error log analysis после 19 дней эксплуатации,В обработке,10000
+M00606,2026-11-12,scaner,EQUIP77198,2026-09-06,software update,Высокая,Обнаружена software update после 13 дней эксплуатации,Новая,2000
+M00607,2026-11-13,cisco_switch,EQUIP63145,2026-09-01,port testing,Средняя,Обнаружена port testing после 12 дней эксплуатации,Новая,5000
+M00608,2026-11-13,cisco_router,EQUIP51749,2026-10-19,dust cleaning,Низкая,Обнаружена dust cleaning после 28 дней эксплуатации,Отклонена,2000
+M00609,2026-11-15,ip_phone,EQUIP32983,2026-10-04,software update,Низкая,Обнаружена software update после 14 дней эксплуатации,Отклонена,2000
+M00610,2026-11-15,pc,EQUIP81931,2026-10-04,dust cleaning,Средняя,Обнаружена dust cleaning после 1 дней эксплуатации,Отклонена,5000
+M00611,2026-11-17,ip_phone,EQUIP34611,2026-09-30,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 26 дней эксплуатации,В обработке,5000
+M00612,2026-11-17,printer,EQUIP18404,2026-11-08,port testing,Высокая,Обнаружена port testing после 12 дней эксплуатации,Решена,10000
+M00613,2026-11-18,scaner,EQUIP92707,2026-10-02,port testing,Высокая,Обнаружена port testing после 10 дней эксплуатации,Решена,5000
+M00614,2026-11-19,pc,EQUIP27006,2026-10-25,port testing,Низкая,Обнаружена port testing после 27 дней эксплуатации,В обработке,0
+M00615,2026-11-21,pc,EQUIP51250,2026-10-15,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 19 дней эксплуатации,Решена,0
+M00616,2026-11-23,ip_phone,EQUIP46728,2026-10-31,software update,Высокая,Обнаружена software update после 26 дней эксплуатации,В обработке,10000
+M00617,2026-11-23,printer,EQUIP85269,2026-08-28,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 8 дней эксплуатации,Новая,10000
+M00618,2026-11-25,pc,EQUIP16637,2026-10-14,port testing,Высокая,Обнаружена port testing после 4 дней эксплуатации,Отклонена,5000
+M00619,2026-11-27,cisco_router,EQUIP52889,2026-11-04,port testing,Низкая,Обнаружена port testing после 30 дней эксплуатации,Отклонена,1000
+M00620,2026-11-28,cisco_router,EQUIP71985,2026-10-01,dust cleaning,Высокая,Обнаружена dust cleaning после 28 дней эксплуатации,В обработке,1000
+M00621,2026-11-30,cisco_switch,EQUIP71203,2026-09-26,software update,Низкая,Обнаружена software update после 16 дней эксплуатации,В обработке,2000
+M00622,2026-12-01,nas,EQUIP41211,2026-11-24,error log analysis,Высокая,Обнаружена error log analysis после 20 дней эксплуатации,Решена,5000
+M00623,2026-12-02,cisco_router,EQUIP36479,2026-09-20,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 11 дней эксплуатации,Новая,0
+M00624,2026-12-02,cisco_router,EQUIP66033,2026-11-16,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 20 дней эксплуатации,Новая,5000
+M00625,2026-12-02,ip_phone,EQUIP60989,2026-09-22,software update,Высокая,Обнаружена software update после 22 дней эксплуатации,Решена,2000
+M00626,2026-12-02,nas,EQUIP88799,2026-09-10,error log analysis,Средняя,Обнаружена error log analysis после 19 дней эксплуатации,Решена,2000
+M00627,2026-12-02,cisco_switch,EQUIP58221,2026-10-12,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 5 дней эксплуатации,Новая,5000
+M00628,2026-12-02,scaner,EQUIP20345,2026-11-14,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 9 дней эксплуатации,Отклонена,10000
+M00629,2026-12-04,nas,EQUIP12827,2026-10-11,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 27 дней эксплуатации,Отклонена,10000
+M00630,2026-12-04,cisco_switch,EQUIP86437,2026-11-06,dust cleaning,Высокая,Обнаружена dust cleaning после 11 дней эксплуатации,Отклонена,1000
+M00631,2026-12-06,nas,EQUIP22169,2026-10-17,port testing,Средняя,Обнаружена port testing после 14 дней эксплуатации,Отклонена,1000
+M00632,2026-12-07,nas,EQUIP65821,2026-10-03,error log analysis,Средняя,Обнаружена error log analysis после 11 дней эксплуатации,Решена,0
+M00633,2026-12-09,ip_phone,EQUIP42526,2026-09-15,software update,Низкая,Обнаружена software update после 24 дней эксплуатации,Отклонена,1000
+M00634,2026-12-11,cisco_router,EQUIP52208,2026-10-31,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 4 дней эксплуатации,В обработке,2000
+M00635,2026-12-12,cisco_switch,EQUIP23024,2026-10-30,error log analysis,Высокая,Обнаружена error log analysis после 3 дней эксплуатации,Новая,10000
+M00636,2026-12-14,nas,EQUIP50875,2026-10-19,error log analysis,Низкая,Обнаружена error log analysis после 3 дней эксплуатации,Решена,0
+M00637,2026-12-14,cisco_switch,EQUIP55449,2026-10-21,port testing,Высокая,Обнаружена port testing после 12 дней эксплуатации,Новая,1000
+M00638,2026-12-15,ip_phone,EQUIP31879,2026-12-10,dust cleaning,Высокая,Обнаружена dust cleaning после 8 дней эксплуатации,Решена,1000
+M00639,2026-12-17,pc,EQUIP84585,2026-11-17,software update,Высокая,Обнаружена software update после 17 дней эксплуатации,Отклонена,5000
+M00640,2026-12-17,ip_phone,EQUIP78704,2026-10-01,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 26 дней эксплуатации,Отклонена,1000
+M00641,2026-12-18,cisco_router,EQUIP42096,2026-09-27,dust cleaning,Средняя,Обнаружена dust cleaning после 19 дней эксплуатации,Новая,1000
+M00642,2026-12-20,printer,EQUIP75820,2026-11-22,error log analysis,Низкая,Обнаружена error log analysis после 6 дней эксплуатации,В обработке,10000
+M00643,2026-12-21,nas,EQUIP23284,2026-11-26,dust cleaning,Средняя,Обнаружена dust cleaning после 11 дней эксплуатации,В обработке,10000
+M00644,2026-12-21,cisco_switch,EQUIP26573,2026-10-22,software update,Низкая,Обнаружена software update после 3 дней эксплуатации,В обработке,5000
+M00645,2026-12-22,cisco_router,EQUIP96208,2026-11-17,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 9 дней эксплуатации,Отклонена,0
+M00646,2026-12-23,ip_phone,EQUIP69426,2026-10-30,port testing,Высокая,Обнаружена port testing после 7 дней эксплуатации,Решена,10000
+M00647,2026-12-23,cisco_switch,EQUIP51468,2026-12-13,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 25 дней эксплуатации,В обработке,2000
+M00648,2026-12-23,scaner,EQUIP35657,2026-10-22,error log analysis,Средняя,Обнаружена error log analysis после 21 дней эксплуатации,Отклонена,5000
+M00649,2026-12-25,scaner,EQUIP54723,2026-11-27,dust cleaning,Высокая,Обнаружена dust cleaning после 30 дней эксплуатации,В обработке,5000
+M00650,2026-12-26,cisco_router,EQUIP53248,2026-11-03,error log analysis,Высокая,Обнаружена error log analysis после 21 дней эксплуатации,Новая,0
+M00651,2026-12-26,nas,EQUIP32933,2026-10-06,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 19 дней эксплуатации,Решена,1000
+M00652,2026-12-27,ip_phone,EQUIP19106,2026-12-12,error log analysis,Низкая,Обнаружена error log analysis после 20 дней эксплуатации,Решена,0
+M00653,2026-12-29,cisco_router,EQUIP84366,2026-10-01,port testing,Средняя,Обнаружена port testing после 18 дней эксплуатации,В обработке,10000
+M00654,2026-12-30,nas,EQUIP23033,2026-10-07,port testing,Средняя,Обнаружена port testing после 7 дней эксплуатации,Решена,10000
+M00655,2026-12-30,ip_phone,EQUIP44963,2026-10-14,error log analysis,Средняя,Обнаружена error log analysis после 28 дней эксплуатации,Новая,5000
+M00656,2026-12-30,printer,EQUIP57522,2026-11-21,software update,Низкая,Обнаружена software update после 25 дней эксплуатации,Отклонена,2000
+M00657,2027-01-01,cisco_router,EQUIP36613,2026-11-11,software update,Средняя,Обнаружена software update после 28 дней эксплуатации,Отклонена,5000
+M00658,2027-01-01,printer,EQUIP59073,2026-10-08,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 7 дней эксплуатации,Решена,5000
+M00659,2027-01-02,nas,EQUIP59673,2026-12-16,error log analysis,Высокая,Обнаружена error log analysis после 25 дней эксплуатации,Решена,0
+M00660,2027-01-02,nas,EQUIP91425,2026-12-30,port testing,Средняя,Обнаружена port testing после 27 дней эксплуатации,Решена,10000
+M00661,2027-01-04,ip_phone,EQUIP63625,2026-12-04,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 28 дней эксплуатации,Отклонена,10000
+M00662,2027-01-06,nas,EQUIP61939,2026-12-29,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 28 дней эксплуатации,Решена,2000
+M00663,2027-01-07,cisco_router,EQUIP90355,2026-11-21,software update,Высокая,Обнаружена software update после 25 дней эксплуатации,В обработке,1000
+M00664,2027-01-07,scaner,EQUIP94662,2026-11-02,error log analysis,Низкая,Обнаружена error log analysis после 7 дней эксплуатации,Отклонена,0
+M00665,2027-01-08,cisco_switch,EQUIP48381,2026-11-26,error log analysis,Высокая,Обнаружена error log analysis после 30 дней эксплуатации,В обработке,1000
+M00666,2027-01-09,ip_phone,EQUIP39038,2026-11-04,dust cleaning,Высокая,Обнаружена dust cleaning после 25 дней эксплуатации,Решена,5000
+M00667,2027-01-10,ip_phone,EQUIP41283,2026-12-14,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 18 дней эксплуатации,Новая,5000
+M00668,2027-01-10,nas,EQUIP63996,2027-01-03,software update,Высокая,Обнаружена software update после 18 дней эксплуатации,Отклонена,2000
+M00669,2027-01-11,cisco_router,EQUIP14502,2026-11-03,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 10 дней эксплуатации,В обработке,10000
+M00670,2027-01-11,scaner,EQUIP27687,2026-11-29,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 23 дней эксплуатации,Отклонена,10000
+M00671,2027-01-11,pc,EQUIP97762,2026-11-06,port testing,Высокая,Обнаружена port testing после 22 дней эксплуатации,Решена,1000
+M00672,2027-01-13,printer,EQUIP44925,2027-01-09,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 10 дней эксплуатации,В обработке,1000
+M00673,2027-01-14,nas,EQUIP92277,2026-11-02,dust cleaning,Средняя,Обнаружена dust cleaning после 29 дней эксплуатации,Отклонена,10000
+M00674,2027-01-14,printer,EQUIP32224,2026-10-20,software update,Низкая,Обнаружена software update после 29 дней эксплуатации,Решена,5000
+M00675,2027-01-15,ip_phone,EQUIP69409,2026-12-25,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 6 дней эксплуатации,В обработке,5000
+M00676,2027-01-16,scaner,EQUIP85695,2026-12-08,dust cleaning,Высокая,Обнаружена dust cleaning после 30 дней эксплуатации,Новая,2000
+M00677,2027-01-16,cisco_router,EQUIP25960,2026-12-09,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 5 дней эксплуатации,Новая,0
+M00678,2027-01-17,nas,EQUIP15409,2027-01-04,error log analysis,Низкая,Обнаружена error log analysis после 1 дней эксплуатации,Решена,5000
+M00679,2027-01-17,ip_phone,EQUIP96506,2026-12-12,port testing,Средняя,Обнаружена port testing после 8 дней эксплуатации,Решена,2000
+M00680,2027-01-18,ip_phone,EQUIP99270,2026-10-29,dust cleaning,Средняя,Обнаружена dust cleaning после 18 дней эксплуатации,В обработке,1000
+M00681,2027-01-20,nas,EQUIP24080,2026-11-12,error log analysis,Высокая,Обнаружена error log analysis после 27 дней эксплуатации,Новая,2000
+M00682,2027-01-21,cisco_switch,EQUIP36857,2026-12-12,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 6 дней эксплуатации,В обработке,1000
+M00683,2027-01-21,cisco_router,EQUIP25401,2026-11-28,error log analysis,Высокая,Обнаружена error log analysis после 16 дней эксплуатации,Решена,0
+M00684,2027-01-23,scaner,EQUIP31998,2027-01-07,software update,Средняя,Обнаружена software update после 16 дней эксплуатации,Отклонена,1000
+M00685,2027-01-23,pc,EQUIP36001,2026-10-29,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 3 дней эксплуатации,Отклонена,0
+M00686,2027-01-25,nas,EQUIP21034,2027-01-09,error log analysis,Высокая,Обнаружена error log analysis после 16 дней эксплуатации,В обработке,1000
+M00687,2027-01-26,cisco_router,EQUIP27315,2026-12-31,error log analysis,Средняя,Обнаружена error log analysis после 25 дней эксплуатации,Решена,1000
+M00688,2027-01-28,scaner,EQUIP99674,2026-12-21,software update,Высокая,Обнаружена software update после 11 дней эксплуатации,Отклонена,2000
+M00689,2027-01-28,nas,EQUIP75194,2026-11-04,software update,Высокая,Обнаружена software update после 17 дней эксплуатации,Новая,0
+M00690,2027-01-28,nas,EQUIP46265,2026-12-17,dust cleaning,Высокая,Обнаружена dust cleaning после 26 дней эксплуатации,Отклонена,10000
+M00691,2027-01-29,printer,EQUIP27714,2026-11-08,software update,Средняя,Обнаружена software update после 19 дней эксплуатации,Новая,0
+M00692,2027-01-31,printer,EQUIP77781,2026-11-12,error log analysis,Низкая,Обнаружена error log analysis после 23 дней эксплуатации,Решена,5000
+M00693,2027-02-01,scaner,EQUIP49944,2027-01-07,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 19 дней эксплуатации,Решена,0
+M00694,2027-02-01,scaner,EQUIP30848,2026-11-06,error log analysis,Высокая,Обнаружена error log analysis после 8 дней эксплуатации,Новая,0
+M00695,2027-02-01,printer,EQUIP51437,2027-01-09,software update,Средняя,Обнаружена software update после 12 дней эксплуатации,Отклонена,5000
+M00696,2027-02-02,printer,EQUIP62162,2026-12-20,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 18 дней эксплуатации,Решена,1000
+M00697,2027-02-03,pc,EQUIP55784,2027-01-29,error log analysis,Низкая,Обнаружена error log analysis после 29 дней эксплуатации,Новая,1000
+M00698,2027-02-04,nas,EQUIP43790,2026-11-25,dust cleaning,Высокая,Обнаружена dust cleaning после 20 дней эксплуатации,В обработке,5000
+M00699,2027-02-06,ip_phone,EQUIP12924,2027-01-15,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 17 дней эксплуатации,Новая,10000
+M00700,2027-02-06,nas,EQUIP44465,2026-12-17,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 20 дней эксплуатации,Новая,2000
+M00701,2027-02-07,cisco_router,EQUIP86533,2027-01-17,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 2 дней эксплуатации,Решена,5000
+M00702,2027-02-07,ip_phone,EQUIP43233,2026-11-16,software update,Средняя,Обнаружена software update после 27 дней эксплуатации,Новая,2000
+M00703,2027-02-07,scaner,EQUIP91124,2027-01-08,dust cleaning,Низкая,Обнаружена dust cleaning после 22 дней эксплуатации,В обработке,0
+M00704,2027-02-07,scaner,EQUIP93963,2027-01-07,software update,Средняя,Обнаружена software update после 20 дней эксплуатации,В обработке,10000
+M00705,2027-02-07,nas,EQUIP79972,2027-01-07,dust cleaning,Высокая,Обнаружена dust cleaning после 1 дней эксплуатации,Новая,1000
+M00706,2027-02-07,nas,EQUIP96667,2026-11-24,port testing,Низкая,Обнаружена port testing после 7 дней эксплуатации,Решена,2000
+M00707,2027-02-08,ip_phone,EQUIP38350,2026-12-15,port testing,Средняя,Обнаружена port testing после 21 дней эксплуатации,Решена,0
+M00708,2027-02-10,nas,EQUIP59573,2027-01-28,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 7 дней эксплуатации,Новая,10000
+M00709,2027-02-10,cisco_router,EQUIP49672,2027-02-02,port testing,Высокая,Обнаружена port testing после 30 дней эксплуатации,Новая,0
+M00710,2027-02-11,cisco_router,EQUIP60840,2026-12-03,dust cleaning,Средняя,Обнаружена dust cleaning после 22 дней эксплуатации,Новая,0
+M00711,2027-02-11,cisco_switch,EQUIP91618,2026-12-12,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 3 дней эксплуатации,В обработке,5000
+M00712,2027-02-12,nas,EQUIP12501,2027-01-09,port testing,Низкая,Обнаружена port testing после 23 дней эксплуатации,Отклонена,1000
+M00713,2027-02-12,scaner,EQUIP96576,2027-01-15,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 3 дней эксплуатации,В обработке,10000
+M00714,2027-02-13,nas,EQUIP20536,2026-12-30,software update,Средняя,Обнаружена software update после 20 дней эксплуатации,Новая,5000
+M00715,2027-02-14,pc,EQUIP20171,2027-01-09,error log analysis,Высокая,Обнаружена error log analysis после 23 дней эксплуатации,Отклонена,10000
+M00716,2027-02-16,scaner,EQUIP81490,2027-02-08,port testing,Средняя,Обнаружена port testing после 2 дней эксплуатации,Новая,10000
+M00717,2027-02-18,cisco_switch,EQUIP72025,2026-11-23,port testing,Средняя,Обнаружена port testing после 21 дней эксплуатации,Отклонена,0
+M00718,2027-02-18,cisco_switch,EQUIP19693,2027-01-31,software update,Низкая,Обнаружена software update после 8 дней эксплуатации,В обработке,1000
+M00719,2027-02-18,cisco_switch,EQUIP39914,2027-01-11,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 30 дней эксплуатации,Решена,0
+M00720,2027-02-18,printer,EQUIP77972,2027-01-06,port testing,Высокая,Обнаружена port testing после 19 дней эксплуатации,Решена,5000
+M00721,2027-02-18,pc,EQUIP30809,2027-01-01,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 5 дней эксплуатации,В обработке,2000
+M00722,2027-02-20,cisco_router,EQUIP96596,2027-01-16,port testing,Средняя,Обнаружена port testing после 30 дней эксплуатации,В обработке,1000
+M00723,2027-02-20,nas,EQUIP47830,2026-11-23,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 7 дней эксплуатации,Новая,0
+M00724,2027-02-21,scaner,EQUIP63651,2027-02-06,dust cleaning,Средняя,Обнаружена dust cleaning после 30 дней эксплуатации,Отклонена,10000
+M00725,2027-02-23,printer,EQUIP26489,2026-11-28,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 8 дней эксплуатации,Решена,1000
+M00726,2027-02-24,cisco_router,EQUIP48328,2027-02-16,error log analysis,Низкая,Обнаружена error log analysis после 4 дней эксплуатации,Отклонена,2000
+M00727,2027-02-24,scaner,EQUIP34237,2026-12-20,dust cleaning,Средняя,Обнаружена dust cleaning после 12 дней эксплуатации,В обработке,0
+M00728,2027-02-25,cisco_switch,EQUIP30839,2027-02-13,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 4 дней эксплуатации,Отклонена,2000
+M00729,2027-02-26,pc,EQUIP86466,2027-01-07,dust cleaning,Низкая,Обнаружена dust cleaning после 5 дней эксплуатации,Отклонена,10000
+M00730,2027-02-27,nas,EQUIP47680,2027-01-05,error log analysis,Средняя,Обнаружена error log analysis после 3 дней эксплуатации,Решена,2000
+M00731,2027-03-01,scaner,EQUIP72234,2027-01-17,software update,Средняя,Обнаружена software update после 12 дней эксплуатации,Новая,1000
+M00732,2027-03-02,printer,EQUIP18724,2026-12-26,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 27 дней эксплуатации,В обработке,2000
+M00733,2027-03-02,cisco_router,EQUIP17871,2027-02-19,software update,Низкая,Обнаружена software update после 27 дней эксплуатации,Новая,0
+M00734,2027-03-04,printer,EQUIP11385,2027-01-13,port testing,Средняя,Обнаружена port testing после 9 дней эксплуатации,Новая,10000
+M00735,2027-03-05,scaner,EQUIP68876,2027-02-10,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 10 дней эксплуатации,Решена,0
+M00736,2027-03-07,printer,EQUIP70532,2027-01-30,error log analysis,Низкая,Обнаружена error log analysis после 11 дней эксплуатации,Решена,2000
+M00737,2027-03-07,cisco_switch,EQUIP81406,2026-12-09,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 2 дней эксплуатации,Решена,5000
+M00738,2027-03-09,scaner,EQUIP90691,2027-02-06,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 15 дней эксплуатации,Решена,10000
+M00739,2027-03-09,nas,EQUIP45320,2027-02-23,dust cleaning,Высокая,Обнаружена dust cleaning после 16 дней эксплуатации,В обработке,0
+M00740,2027-03-11,cisco_router,EQUIP59164,2027-02-07,error log analysis,Средняя,Обнаружена error log analysis после 25 дней эксплуатации,В обработке,10000
+M00741,2027-03-11,nas,EQUIP28297,2027-01-03,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 8 дней эксплуатации,Решена,1000
+M00742,2027-03-13,pc,EQUIP62167,2027-02-04,error log analysis,Средняя,Обнаружена error log analysis после 9 дней эксплуатации,Новая,2000
+M00743,2027-03-14,cisco_router,EQUIP40781,2027-02-19,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 13 дней эксплуатации,Решена,0
+M00744,2027-03-14,nas,EQUIP63909,2027-01-10,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 1 дней эксплуатации,Решена,0
+M00745,2027-03-16,cisco_switch,EQUIP46080,2026-12-30,software update,Средняя,Обнаружена software update после 3 дней эксплуатации,Новая,5000
+M00746,2027-03-16,ip_phone,EQUIP33459,2026-12-20,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 14 дней эксплуатации,Новая,2000
+M00747,2027-03-18,cisco_router,EQUIP25373,2026-12-21,software update,Средняя,Обнаружена software update после 12 дней эксплуатации,Новая,1000
+M00748,2027-03-20,nas,EQUIP92761,2026-12-26,port testing,Высокая,Обнаружена port testing после 14 дней эксплуатации,Решена,0
+M00749,2027-03-21,pc,EQUIP95502,2027-01-18,port testing,Высокая,Обнаружена port testing после 4 дней эксплуатации,Новая,5000
+M00750,2027-03-21,cisco_router,EQUIP70749,2027-02-16,dust cleaning,Низкая,Обнаружена dust cleaning после 20 дней эксплуатации,Новая,5000
+M00751,2027-03-23,ip_phone,EQUIP66895,2027-03-10,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 26 дней эксплуатации,Решена,5000
+M00752,2027-03-25,pc,EQUIP91949,2027-01-23,error log analysis,Средняя,Обнаружена error log analysis после 16 дней эксплуатации,Новая,0
+M00753,2027-03-26,cisco_switch,EQUIP47237,2027-01-31,software update,Высокая,Обнаружена software update после 17 дней эксплуатации,Новая,1000
+M00754,2027-03-27,nas,EQUIP84727,2027-02-07,port testing,Высокая,Обнаружена port testing после 7 дней эксплуатации,Новая,0
+M00755,2027-03-28,ip_phone,EQUIP62192,2027-02-17,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 8 дней эксплуатации,Решена,1000
+M00756,2027-03-28,nas,EQUIP53122,2027-03-09,software update,Высокая,Обнаружена software update после 15 дней эксплуатации,В обработке,10000
+M00757,2027-03-30,ip_phone,EQUIP64404,2027-02-20,software update,Высокая,Обнаружена software update после 22 дней эксплуатации,Новая,0
+M00758,2027-04-01,cisco_switch,EQUIP60310,2027-03-01,software update,Низкая,Обнаружена software update после 3 дней эксплуатации,В обработке,0
+M00759,2027-04-02,scaner,EQUIP65140,2027-01-19,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 4 дней эксплуатации,Отклонена,5000
+M00760,2027-04-04,cisco_switch,EQUIP50238,2027-02-08,port testing,Низкая,Обнаружена port testing после 11 дней эксплуатации,Отклонена,5000
+M00761,2027-04-05,nas,EQUIP95047,2027-03-26,dust cleaning,Высокая,Обнаружена dust cleaning после 1 дней эксплуатации,Решена,2000
+M00762,2027-04-05,scaner,EQUIP12757,2027-02-02,error log analysis,Высокая,Обнаружена error log analysis после 8 дней эксплуатации,Новая,1000
+M00763,2027-04-07,pc,EQUIP35721,2027-02-08,port testing,Низкая,Обнаружена port testing после 2 дней эксплуатации,Новая,2000
+M00764,2027-04-07,pc,EQUIP14623,2027-02-04,software update,Низкая,Обнаружена software update после 20 дней эксплуатации,В обработке,2000
+M00765,2027-04-08,cisco_router,EQUIP95812,2027-01-20,port testing,Высокая,Обнаружена port testing после 1 дней эксплуатации,Новая,10000
+M00766,2027-04-08,printer,EQUIP40914,2027-03-15,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 16 дней эксплуатации,Отклонена,10000
+M00767,2027-04-08,cisco_switch,EQUIP59092,2027-03-23,software update,Высокая,Обнаружена software update после 3 дней эксплуатации,Решена,2000
+M00768,2027-04-10,ip_phone,EQUIP52141,2027-02-09,error log analysis,Высокая,Обнаружена error log analysis после 8 дней эксплуатации,Решена,10000
+M00769,2027-04-12,cisco_router,EQUIP49219,2027-02-03,error log analysis,Высокая,Обнаружена error log analysis после 10 дней эксплуатации,Новая,5000
+M00770,2027-04-13,cisco_router,EQUIP74724,2027-02-03,dust cleaning,Низкая,Обнаружена dust cleaning после 23 дней эксплуатации,В обработке,2000
+M00771,2027-04-15,ip_phone,EQUIP89263,2027-04-11,dust cleaning,Низкая,Обнаружена dust cleaning после 3 дней эксплуатации,Решена,10000
+M00772,2027-04-16,scaner,EQUIP15554,2027-03-15,dust cleaning,Средняя,Обнаружена dust cleaning после 13 дней эксплуатации,В обработке,10000
+M00773,2027-04-17,cisco_router,EQUIP83151,2027-03-06,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 29 дней эксплуатации,В обработке,10000
+M00774,2027-04-19,printer,EQUIP59430,2027-01-26,error log analysis,Низкая,Обнаружена error log analysis после 15 дней эксплуатации,Отклонена,5000
+M00775,2027-04-21,pc,EQUIP90533,2027-04-19,error log analysis,Низкая,Обнаружена error log analysis после 23 дней эксплуатации,Отклонена,5000
+M00776,2027-04-23,pc,EQUIP42847,2027-04-20,port testing,Высокая,Обнаружена port testing после 18 дней эксплуатации,Решена,10000
+M00777,2027-04-24,cisco_router,EQUIP70033,2027-04-08,port testing,Высокая,Обнаружена port testing после 23 дней эксплуатации,Новая,5000
+M00778,2027-04-26,pc,EQUIP17637,2027-03-24,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 21 дней эксплуатации,Отклонена,10000
+M00779,2027-04-27,scaner,EQUIP60347,2027-03-22,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 12 дней эксплуатации,Отклонена,5000
+M00780,2027-04-28,cisco_switch,EQUIP52435,2027-02-02,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 12 дней эксплуатации,Решена,0
+M00781,2027-04-29,pc,EQUIP74977,2027-04-21,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 8 дней эксплуатации,Решена,5000
+M00782,2027-05-01,scaner,EQUIP88532,2027-02-24,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 27 дней эксплуатации,Отклонена,10000
+M00783,2027-05-01,cisco_router,EQUIP31354,2027-03-27,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 15 дней эксплуатации,Решена,10000
+M00784,2027-05-01,ip_phone,EQUIP49233,2027-01-31,dust cleaning,Высокая,Обнаружена dust cleaning после 14 дней эксплуатации,Новая,2000
+M00785,2027-05-03,printer,EQUIP36339,2027-04-15,error log analysis,Высокая,Обнаружена error log analysis после 10 дней эксплуатации,Новая,1000
+M00786,2027-05-03,scaner,EQUIP84280,2027-04-02,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 10 дней эксплуатации,В обработке,0
+M00787,2027-05-03,pc,EQUIP16961,2027-02-22,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 12 дней эксплуатации,Новая,2000
+M00788,2027-05-04,cisco_router,EQUIP25328,2027-05-01,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 19 дней эксплуатации,Решена,2000
+M00789,2027-05-04,printer,EQUIP39386,2027-04-05,software update,Средняя,Обнаружена software update после 7 дней эксплуатации,Новая,5000
+M00790,2027-05-05,ip_phone,EQUIP60025,2027-03-20,port testing,Средняя,Обнаружена port testing после 22 дней эксплуатации,Решена,1000
+M00791,2027-05-05,scaner,EQUIP91939,2027-04-04,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 28 дней эксплуатации,Новая,0
+M00792,2027-05-06,cisco_router,EQUIP72746,2027-03-19,software update,Низкая,Обнаружена software update после 8 дней эксплуатации,Новая,5000
+M00793,2027-05-06,pc,EQUIP28853,2027-04-27,error log analysis,Средняя,Обнаружена error log analysis после 1 дней эксплуатации,Решена,2000
+M00794,2027-05-06,ip_phone,EQUIP49254,2027-04-05,dust cleaning,Высокая,Обнаружена dust cleaning после 3 дней эксплуатации,В обработке,10000
+M00795,2027-05-08,printer,EQUIP31224,2027-03-30,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 6 дней эксплуатации,В обработке,2000
+M00796,2027-05-10,pc,EQUIP40544,2027-04-01,software update,Высокая,Обнаружена software update после 6 дней эксплуатации,Новая,0
+M00797,2027-05-12,printer,EQUIP26243,2027-02-17,error log analysis,Низкая,Обнаружена error log analysis после 14 дней эксплуатации,Решена,1000
+M00798,2027-05-12,ip_phone,EQUIP18049,2027-05-09,dust cleaning,Низкая,Обнаружена dust cleaning после 15 дней эксплуатации,В обработке,1000
+M00799,2027-05-14,pc,EQUIP45955,2027-02-15,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 8 дней эксплуатации,В обработке,1000
+M00800,2027-05-15,scaner,EQUIP64940,2027-03-05,port testing,Низкая,Обнаружена port testing после 16 дней эксплуатации,В обработке,1000
+M00801,2027-05-16,nas,EQUIP42523,2027-04-21,dust cleaning,Средняя,Обнаружена dust cleaning после 9 дней эксплуатации,Отклонена,5000
+M00802,2027-05-18,pc,EQUIP24482,2027-05-15,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 21 дней эксплуатации,В обработке,5000
+M00803,2027-05-18,scaner,EQUIP72116,2027-03-06,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 11 дней эксплуатации,Новая,0
+M00804,2027-05-18,pc,EQUIP23378,2027-02-27,software update,Низкая,Обнаружена software update после 14 дней эксплуатации,Новая,5000
+M00805,2027-05-18,cisco_router,EQUIP52376,2027-03-10,software update,Низкая,Обнаружена software update после 23 дней эксплуатации,Отклонена,2000
+M00806,2027-05-19,nas,EQUIP76501,2027-03-14,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 26 дней эксплуатации,Отклонена,1000
+M00807,2027-05-20,nas,EQUIP20312,2027-04-11,software update,Низкая,Обнаружена software update после 28 дней эксплуатации,Новая,1000
+M00808,2027-05-20,scaner,EQUIP57155,2027-03-18,dust cleaning,Низкая,Обнаружена dust cleaning после 6 дней эксплуатации,Отклонена,0
+M00809,2027-05-21,printer,EQUIP64754,2027-05-20,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 27 дней эксплуатации,В обработке,1000
+M00810,2027-05-22,pc,EQUIP70714,2027-04-28,port testing,Средняя,Обнаружена port testing после 11 дней эксплуатации,Отклонена,5000
+M00811,2027-05-23,printer,EQUIP47460,2027-04-09,software update,Высокая,Обнаружена software update после 20 дней эксплуатации,Отклонена,5000
+M00812,2027-05-24,cisco_switch,EQUIP98715,2027-03-24,dust cleaning,Низкая,Обнаружена dust cleaning после 18 дней эксплуатации,В обработке,1000
+M00813,2027-05-25,nas,EQUIP96837,2027-05-08,error log analysis,Средняя,Обнаружена error log analysis после 10 дней эксплуатации,В обработке,0
+M00814,2027-05-27,cisco_switch,EQUIP87232,2027-05-26,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 3 дней эксплуатации,Отклонена,0
+M00815,2027-05-29,ip_phone,EQUIP31645,2027-04-23,dust cleaning,Средняя,Обнаружена dust cleaning после 21 дней эксплуатации,Решена,1000
+M00816,2027-05-29,scaner,EQUIP12767,2027-05-23,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 2 дней эксплуатации,Отклонена,0
+M00817,2027-05-29,scaner,EQUIP85875,2027-04-13,dust cleaning,Низкая,Обнаружена dust cleaning после 28 дней эксплуатации,В обработке,1000
+M00818,2027-05-30,printer,EQUIP45438,2027-05-29,software update,Высокая,Обнаружена software update после 30 дней эксплуатации,В обработке,1000
+M00819,2027-05-31,scaner,EQUIP35691,2027-03-24,error log analysis,Средняя,Обнаружена error log analysis после 12 дней эксплуатации,Решена,5000
+M00820,2027-06-01,cisco_switch,EQUIP85945,2027-05-28,dust cleaning,Средняя,Обнаружена dust cleaning после 6 дней эксплуатации,Решена,2000
+M00821,2027-06-01,cisco_switch,EQUIP64353,2027-03-05,error log analysis,Высокая,Обнаружена error log analysis после 27 дней эксплуатации,Отклонена,5000
+M00822,2027-06-02,cisco_router,EQUIP63852,2027-04-22,software update,Низкая,Обнаружена software update после 4 дней эксплуатации,В обработке,2000
+M00823,2027-06-04,cisco_router,EQUIP31697,2027-03-15,port testing,Высокая,Обнаружена port testing после 28 дней эксплуатации,В обработке,2000
+M00824,2027-06-04,nas,EQUIP38672,2027-04-08,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 13 дней эксплуатации,Решена,2000
+M00825,2027-06-05,cisco_router,EQUIP89357,2027-05-03,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 2 дней эксплуатации,Новая,2000
+M00826,2027-06-07,scaner,EQUIP45928,2027-04-03,software update,Средняя,Обнаружена software update после 23 дней эксплуатации,Отклонена,5000
+M00827,2027-06-09,printer,EQUIP72982,2027-04-20,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 25 дней эксплуатации,В обработке,1000
+M00828,2027-06-09,scaner,EQUIP87846,2027-03-28,port testing,Высокая,Обнаружена port testing после 7 дней эксплуатации,Новая,0
+M00829,2027-06-09,scaner,EQUIP79605,2027-05-05,port testing,Низкая,Обнаружена port testing после 9 дней эксплуатации,В обработке,2000
+M00830,2027-06-11,nas,EQUIP15275,2027-04-06,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 29 дней эксплуатации,Отклонена,10000
+M00831,2027-06-11,scaner,EQUIP55648,2027-03-17,dust cleaning,Высокая,Обнаружена dust cleaning после 20 дней эксплуатации,Решена,1000
+M00832,2027-06-11,nas,EQUIP54330,2027-05-02,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 23 дней эксплуатации,Новая,0
+M00833,2027-06-12,ip_phone,EQUIP62836,2027-05-28,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 13 дней эксплуатации,Новая,1000
+M00834,2027-06-13,scaner,EQUIP81256,2027-03-20,software update,Низкая,Обнаружена software update после 9 дней эксплуатации,Решена,1000
+M00835,2027-06-14,cisco_router,EQUIP66093,2027-05-21,software update,Высокая,Обнаружена software update после 13 дней эксплуатации,Новая,5000
+M00836,2027-06-16,scaner,EQUIP57957,2027-04-24,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 11 дней эксплуатации,В обработке,2000
+M00837,2027-06-18,ip_phone,EQUIP52068,2027-06-02,software update,Средняя,Обнаружена software update после 27 дней эксплуатации,В обработке,1000
+M00838,2027-06-19,cisco_switch,EQUIP74006,2027-05-31,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 7 дней эксплуатации,Отклонена,2000
+M00839,2027-06-19,printer,EQUIP98055,2027-04-03,dust cleaning,Низкая,Обнаружена dust cleaning после 12 дней эксплуатации,В обработке,1000
+M00840,2027-06-20,ip_phone,EQUIP42731,2027-06-11,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 14 дней эксплуатации,Новая,10000
+M00841,2027-06-22,nas,EQUIP20650,2027-04-28,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 28 дней эксплуатации,Отклонена,0
+M00842,2027-06-23,scaner,EQUIP14039,2027-06-02,software update,Высокая,Обнаружена software update после 25 дней эксплуатации,Отклонена,5000
+M00843,2027-06-24,ip_phone,EQUIP53006,2027-04-21,error log analysis,Средняя,Обнаружена error log analysis после 6 дней эксплуатации,Решена,0
+M00844,2027-06-24,nas,EQUIP16679,2027-04-13,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 2 дней эксплуатации,Новая,10000
+M00845,2027-06-26,scaner,EQUIP60569,2027-04-02,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 8 дней эксплуатации,В обработке,0
+M00846,2027-06-26,ip_phone,EQUIP19524,2027-04-08,port testing,Высокая,Обнаружена port testing после 6 дней эксплуатации,Отклонена,10000
+M00847,2027-06-28,pc,EQUIP56202,2027-05-24,error log analysis,Низкая,Обнаружена error log analysis после 6 дней эксплуатации,Решена,1000
+M00848,2027-06-29,cisco_switch,EQUIP12919,2027-04-19,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 22 дней эксплуатации,Новая,5000
+M00849,2027-06-29,cisco_switch,EQUIP41838,2027-04-12,dust cleaning,Средняя,Обнаружена dust cleaning после 2 дней эксплуатации,Отклонена,5000
+M00850,2027-07-01,cisco_router,EQUIP97978,2027-06-22,software update,Средняя,Обнаружена software update после 17 дней эксплуатации,Новая,2000
+M00851,2027-07-02,nas,EQUIP58138,2027-04-24,software update,Высокая,Обнаружена software update после 4 дней эксплуатации,Новая,5000
+M00852,2027-07-02,pc,EQUIP96277,2027-04-13,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 29 дней эксплуатации,Решена,10000
+M00853,2027-07-04,ip_phone,EQUIP47548,2027-05-28,dust cleaning,Высокая,Обнаружена dust cleaning после 29 дней эксплуатации,Новая,10000
+M00854,2027-07-06,ip_phone,EQUIP93292,2027-04-25,error log analysis,Высокая,Обнаружена error log analysis после 15 дней эксплуатации,В обработке,2000
+M00855,2027-07-06,pc,EQUIP79959,2027-04-20,dust cleaning,Средняя,Обнаружена dust cleaning после 23 дней эксплуатации,В обработке,1000
+M00856,2027-07-06,cisco_switch,EQUIP26844,2027-06-19,dust cleaning,Низкая,Обнаружена dust cleaning после 16 дней эксплуатации,Решена,1000
+M00857,2027-07-07,cisco_switch,EQUIP90321,2027-05-23,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 13 дней эксплуатации,Отклонена,2000
+M00858,2027-07-08,pc,EQUIP40944,2027-05-11,port testing,Средняя,Обнаружена port testing после 5 дней эксплуатации,Новая,10000
+M00859,2027-07-09,nas,EQUIP64908,2027-04-22,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 8 дней эксплуатации,В обработке,2000
+M00860,2027-07-09,printer,EQUIP27650,2027-07-08,dust cleaning,Низкая,Обнаружена dust cleaning после 11 дней эксплуатации,Отклонена,2000
+M00861,2027-07-11,nas,EQUIP43952,2027-06-04,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 4 дней эксплуатации,Отклонена,10000
+M00862,2027-07-13,printer,EQUIP30479,2027-05-30,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 27 дней эксплуатации,Новая,2000
+M00863,2027-07-15,cisco_router,EQUIP21980,2027-04-28,software update,Низкая,Обнаружена software update после 17 дней эксплуатации,Отклонена,1000
+M00864,2027-07-15,cisco_router,EQUIP12291,2027-06-08,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 9 дней эксплуатации,В обработке,0
+M00865,2027-07-15,scaner,EQUIP36103,2027-06-02,port testing,Средняя,Обнаружена port testing после 29 дней эксплуатации,Решена,0
+M00866,2027-07-16,ip_phone,EQUIP29520,2027-06-29,dust cleaning,Высокая,Обнаружена dust cleaning после 7 дней эксплуатации,Отклонена,2000
+M00867,2027-07-16,nas,EQUIP33375,2027-05-09,port testing,Низкая,Обнаружена port testing после 25 дней эксплуатации,В обработке,5000
+M00868,2027-07-16,scaner,EQUIP77858,2027-06-22,dust cleaning,Низкая,Обнаружена dust cleaning после 11 дней эксплуатации,В обработке,2000
+M00869,2027-07-18,pc,EQUIP78527,2027-04-21,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 21 дней эксплуатации,Решена,10000
+M00870,2027-07-18,cisco_router,EQUIP23139,2027-05-13,error log analysis,Высокая,Обнаружена error log analysis после 10 дней эксплуатации,Решена,10000
+M00871,2027-07-19,ip_phone,EQUIP36478,2027-04-25,software update,Низкая,Обнаружена software update после 19 дней эксплуатации,Новая,1000
+M00872,2027-07-21,scaner,EQUIP44003,2027-05-07,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 7 дней эксплуатации,В обработке,2000
+M00873,2027-07-22,pc,EQUIP16324,2027-06-04,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 5 дней эксплуатации,В обработке,0
+M00874,2027-07-22,printer,EQUIP41943,2027-07-10,port testing,Высокая,Обнаружена port testing после 22 дней эксплуатации,В обработке,10000
+M00875,2027-07-24,scaner,EQUIP88335,2027-05-23,software update,Низкая,Обнаружена software update после 23 дней эксплуатации,Решена,1000
+M00876,2027-07-24,cisco_switch,EQUIP64046,2027-06-08,software update,Средняя,Обнаружена software update после 18 дней эксплуатации,Отклонена,10000
+M00877,2027-07-26,cisco_switch,EQUIP39151,2027-07-10,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 1 дней эксплуатации,В обработке,10000
+M00878,2027-07-26,nas,EQUIP45925,2027-05-05,dust cleaning,Средняя,Обнаружена dust cleaning после 29 дней эксплуатации,Новая,5000
+M00879,2027-07-26,ip_phone,EQUIP75261,2027-06-30,port testing,Высокая,Обнаружена port testing после 1 дней эксплуатации,Новая,5000
+M00880,2027-07-28,scaner,EQUIP27785,2027-07-05,software update,Высокая,Обнаружена software update после 20 дней эксплуатации,В обработке,2000
+M00881,2027-07-30,cisco_router,EQUIP71134,2027-06-20,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 10 дней эксплуатации,В обработке,0
+M00882,2027-07-31,cisco_router,EQUIP60377,2027-06-07,port testing,Низкая,Обнаружена port testing после 2 дней эксплуатации,Отклонена,5000
+M00883,2027-07-31,nas,EQUIP87215,2027-06-03,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 8 дней эксплуатации,Новая,10000
+M00884,2027-08-01,cisco_router,EQUIP81522,2027-07-14,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 11 дней эксплуатации,Решена,2000
+M00885,2027-08-01,pc,EQUIP92968,2027-06-24,error log analysis,Низкая,Обнаружена error log analysis после 6 дней эксплуатации,В обработке,0
+M00886,2027-08-02,pc,EQUIP25841,2027-05-16,port testing,Высокая,Обнаружена port testing после 29 дней эксплуатации,В обработке,2000
+M00887,2027-08-03,scaner,EQUIP65283,2027-07-13,error log analysis,Высокая,Обнаружена error log analysis после 12 дней эксплуатации,Отклонена,10000
+M00888,2027-08-03,cisco_switch,EQUIP91793,2027-07-04,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 7 дней эксплуатации,В обработке,10000
+M00889,2027-08-04,printer,EQUIP47792,2027-07-24,software update,Средняя,Обнаружена software update после 16 дней эксплуатации,Новая,5000
+M00890,2027-08-05,scaner,EQUIP87831,2027-06-29,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 15 дней эксплуатации,Новая,10000
+M00891,2027-08-07,cisco_router,EQUIP15588,2027-06-08,dust cleaning,Низкая,Обнаружена dust cleaning после 9 дней эксплуатации,Решена,10000
+M00892,2027-08-09,printer,EQUIP11028,2027-07-20,dust cleaning,Средняя,Обнаружена dust cleaning после 8 дней эксплуатации,Новая,0
+M00893,2027-08-10,pc,EQUIP15421,2027-05-29,software update,Средняя,Обнаружена software update после 22 дней эксплуатации,Отклонена,0
+M00894,2027-08-11,printer,EQUIP80136,2027-08-07,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 4 дней эксплуатации,Отклонена,5000
+M00895,2027-08-13,pc,EQUIP12201,2027-07-09,dust cleaning,Высокая,Обнаружена dust cleaning после 3 дней эксплуатации,Отклонена,10000
+M00896,2027-08-15,printer,EQUIP85839,2027-08-13,software update,Высокая,Обнаружена software update после 29 дней эксплуатации,Решена,5000
+M00897,2027-08-17,cisco_router,EQUIP60078,2027-06-26,software update,Низкая,Обнаружена software update после 22 дней эксплуатации,Отклонена,1000
+M00898,2027-08-19,cisco_switch,EQUIP98089,2027-07-08,dust cleaning,Средняя,Обнаружена dust cleaning после 3 дней эксплуатации,Отклонена,0
+M00899,2027-08-19,printer,EQUIP85998,2027-06-02,software update,Высокая,Обнаружена software update после 7 дней эксплуатации,Решена,0
+M00900,2027-08-21,pc,EQUIP26024,2027-06-13,dust cleaning,Низкая,Обнаружена dust cleaning после 10 дней эксплуатации,В обработке,1000
+M00901,2027-08-21,ip_phone,EQUIP44677,2027-08-13,port testing,Средняя,Обнаружена port testing после 15 дней эксплуатации,Решена,10000
+M00902,2027-08-21,nas,EQUIP96004,2027-08-20,dust cleaning,Высокая,Обнаружена dust cleaning после 28 дней эксплуатации,В обработке,5000
+M00903,2027-08-21,scaner,EQUIP24392,2027-07-02,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 30 дней эксплуатации,Отклонена,0
+M00904,2027-08-21,cisco_switch,EQUIP72062,2027-06-02,error log analysis,Средняя,Обнаружена error log analysis после 20 дней эксплуатации,В обработке,10000
+M00905,2027-08-23,ip_phone,EQUIP85590,2027-06-16,software update,Средняя,Обнаружена software update после 29 дней эксплуатации,Новая,1000
+M00906,2027-08-24,ip_phone,EQUIP27115,2027-06-06,dust cleaning,Средняя,Обнаружена dust cleaning после 27 дней эксплуатации,Отклонена,5000
+M00907,2027-08-25,nas,EQUIP53249,2027-06-23,error log analysis,Средняя,Обнаружена error log analysis после 17 дней эксплуатации,Решена,10000
+M00908,2027-08-27,nas,EQUIP66846,2027-06-26,port testing,Высокая,Обнаружена port testing после 2 дней эксплуатации,Новая,0
+M00909,2027-08-27,nas,EQUIP38018,2027-06-09,software update,Высокая,Обнаружена software update после 29 дней эксплуатации,Новая,1000
+M00910,2027-08-28,pc,EQUIP56271,2027-07-23,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 19 дней эксплуатации,Отклонена,10000
+M00911,2027-08-28,cisco_switch,EQUIP52563,2027-06-17,software update,Средняя,Обнаружена software update после 10 дней эксплуатации,Отклонена,10000
+M00912,2027-08-28,cisco_router,EQUIP17090,2027-08-08,port testing,Высокая,Обнаружена port testing после 9 дней эксплуатации,Решена,5000
+M00913,2027-08-29,nas,EQUIP24894,2027-08-24,error log analysis,Низкая,Обнаружена error log analysis после 12 дней эксплуатации,Новая,0
+M00914,2027-08-29,cisco_switch,EQUIP49395,2027-08-28,error log analysis,Низкая,Обнаружена error log analysis после 1 дней эксплуатации,Новая,0
+M00915,2027-08-29,ip_phone,EQUIP53696,2027-06-05,thermalpaste replace,Высокая,Обнаружена thermalpaste replace после 5 дней эксплуатации,Решена,5000
+M00916,2027-08-31,scaner,EQUIP94490,2027-08-07,software update,Средняя,Обнаружена software update после 25 дней эксплуатации,Отклонена,5000
+M00917,2027-09-02,scaner,EQUIP95927,2027-08-18,dust cleaning,Высокая,Обнаружена dust cleaning после 20 дней эксплуатации,Решена,10000
+M00918,2027-09-04,scaner,EQUIP92038,2027-06-16,error log analysis,Высокая,Обнаружена error log analysis после 4 дней эксплуатации,Отклонена,10000
+M00919,2027-09-06,cisco_router,EQUIP31667,2027-06-17,port testing,Низкая,Обнаружена port testing после 6 дней эксплуатации,Новая,10000
+M00920,2027-09-07,nas,EQUIP50203,2027-08-13,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 3 дней эксплуатации,В обработке,5000
+M00921,2027-09-09,scaner,EQUIP55849,2027-08-11,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 5 дней эксплуатации,В обработке,0
+M00922,2027-09-11,ip_phone,EQUIP55978,2027-07-19,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 27 дней эксплуатации,Новая,1000
+M00923,2027-09-11,pc,EQUIP70400,2027-07-11,software update,Высокая,Обнаружена software update после 17 дней эксплуатации,Отклонена,1000
+M00924,2027-09-12,cisco_router,EQUIP78018,2027-09-04,dust cleaning,Высокая,Обнаружена dust cleaning после 15 дней эксплуатации,Решена,2000
+M00925,2027-09-13,ip_phone,EQUIP63328,2027-08-20,software update,Средняя,Обнаружена software update после 5 дней эксплуатации,Новая,1000
+M00926,2027-09-14,ip_phone,EQUIP41739,2027-07-15,error log analysis,Средняя,Обнаружена error log analysis после 25 дней эксплуатации,В обработке,0
+M00927,2027-09-15,pc,EQUIP33267,2027-09-04,error log analysis,Высокая,Обнаружена error log analysis после 21 дней эксплуатации,Отклонена,1000
+M00928,2027-09-15,ip_phone,EQUIP45453,2027-08-25,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 27 дней эксплуатации,Отклонена,5000
+M00929,2027-09-16,scaner,EQUIP20895,2027-07-02,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 3 дней эксплуатации,В обработке,5000
+M00930,2027-09-17,nas,EQUIP44902,2027-07-10,dust cleaning,Низкая,Обнаружена dust cleaning после 5 дней эксплуатации,Новая,2000
+M00931,2027-09-17,cisco_router,EQUIP62658,2027-08-07,port testing,Высокая,Обнаружена port testing после 6 дней эксплуатации,Решена,1000
+M00932,2027-09-17,ip_phone,EQUIP48160,2027-07-23,software update,Низкая,Обнаружена software update после 24 дней эксплуатации,Отклонена,5000
+M00933,2027-09-19,cisco_router,EQUIP50300,2027-06-24,error log analysis,Низкая,Обнаружена error log analysis после 19 дней эксплуатации,Новая,0
+M00934,2027-09-20,printer,EQUIP17991,2027-08-10,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 17 дней эксплуатации,Решена,1000
+M00935,2027-09-20,nas,EQUIP98048,2027-09-13,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 13 дней эксплуатации,Новая,2000
+M00936,2027-09-20,scaner,EQUIP16311,2027-08-29,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 8 дней эксплуатации,В обработке,5000
+M00937,2027-09-22,scaner,EQUIP15653,2027-09-12,dust cleaning,Средняя,Обнаружена dust cleaning после 6 дней эксплуатации,Решена,2000
+M00938,2027-09-22,scaner,EQUIP95728,2027-07-12,port testing,Высокая,Обнаружена port testing после 20 дней эксплуатации,В обработке,1000
+M00939,2027-09-23,cisco_switch,EQUIP37238,2027-07-13,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 15 дней эксплуатации,Отклонена,2000
+M00940,2027-09-24,pc,EQUIP89528,2027-09-06,port testing,Низкая,Обнаружена port testing после 22 дней эксплуатации,Отклонена,0
+M00941,2027-09-25,scaner,EQUIP85750,2027-07-25,dust cleaning,Высокая,Обнаружена dust cleaning после 16 дней эксплуатации,Решена,5000
+M00942,2027-09-26,nas,EQUIP22793,2027-09-11,error log analysis,Средняя,Обнаружена error log analysis после 27 дней эксплуатации,Решена,10000
+M00943,2027-09-28,cisco_switch,EQUIP24714,2027-09-24,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 20 дней эксплуатации,В обработке,10000
+M00944,2027-09-30,pc,EQUIP54327,2027-07-19,error log analysis,Низкая,Обнаружена error log analysis после 12 дней эксплуатации,Новая,1000
+M00945,2027-10-02,scaner,EQUIP95422,2027-07-11,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 22 дней эксплуатации,Отклонена,1000
+M00946,2027-10-03,nas,EQUIP45501,2027-08-06,dust cleaning,Низкая,Обнаружена dust cleaning после 8 дней эксплуатации,Решена,1000
+M00947,2027-10-04,nas,EQUIP47531,2027-07-26,dust cleaning,Высокая,Обнаружена dust cleaning после 17 дней эксплуатации,Решена,2000
+M00948,2027-10-06,scaner,EQUIP82447,2027-09-09,port testing,Средняя,Обнаружена port testing после 1 дней эксплуатации,Отклонена,0
+M00949,2027-10-07,cisco_switch,EQUIP46284,2027-07-13,error log analysis,Высокая,Обнаружена error log analysis после 4 дней эксплуатации,Отклонена,5000
+M00950,2027-10-09,nas,EQUIP66163,2027-07-20,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 4 дней эксплуатации,В обработке,1000
+M00951,2027-10-11,scaner,EQUIP10193,2027-07-31,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 30 дней эксплуатации,Решена,2000
+M00952,2027-10-13,scaner,EQUIP20259,2027-10-05,error log analysis,Средняя,Обнаружена error log analysis после 23 дней эксплуатации,Отклонена,0
+M00953,2027-10-15,cisco_router,EQUIP62909,2027-08-06,dust cleaning,Низкая,Обнаружена dust cleaning после 19 дней эксплуатации,Новая,5000
+M00954,2027-10-16,pc,EQUIP83584,2027-10-01,port testing,Средняя,Обнаружена port testing после 7 дней эксплуатации,Новая,2000
+M00955,2027-10-16,ip_phone,EQUIP83479,2027-08-22,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 30 дней эксплуатации,В обработке,2000
+M00956,2027-10-18,scaner,EQUIP25141,2027-08-11,error log analysis,Высокая,Обнаружена error log analysis после 7 дней эксплуатации,В обработке,1000
+M00957,2027-10-18,printer,EQUIP31860,2027-08-16,port testing,Средняя,Обнаружена port testing после 22 дней эксплуатации,Новая,2000
+M00958,2027-10-20,cisco_router,EQUIP23376,2027-09-14,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 29 дней эксплуатации,Отклонена,10000
+M00959,2027-10-20,pc,EQUIP34638,2027-08-21,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 4 дней эксплуатации,В обработке,10000
+M00960,2027-10-20,printer,EQUIP34554,2027-10-18,software update,Средняя,Обнаружена software update после 4 дней эксплуатации,Отклонена,1000
+M00961,2027-10-22,nas,EQUIP73371,2027-10-14,dust cleaning,Средняя,Обнаружена dust cleaning после 12 дней эксплуатации,Новая,1000
+M00962,2027-10-23,cisco_router,EQUIP76981,2027-08-31,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 20 дней эксплуатации,Решена,2000
+M00963,2027-10-25,cisco_switch,EQUIP56085,2027-08-31,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 3 дней эксплуатации,Отклонена,10000
+M00964,2027-10-27,cisco_switch,EQUIP67118,2027-09-10,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 3 дней эксплуатации,В обработке,1000
+M00965,2027-10-29,cisco_switch,EQUIP89765,2027-08-19,dust cleaning,Низкая,Обнаружена dust cleaning после 3 дней эксплуатации,Решена,0
+M00966,2027-10-30,cisco_router,EQUIP17419,2027-10-02,error log analysis,Высокая,Обнаружена error log analysis после 24 дней эксплуатации,Отклонена,10000
+M00967,2027-10-30,cisco_switch,EQUIP94264,2027-08-02,hardware diagnostics,Средняя,Обнаружена hardware diagnostics после 10 дней эксплуатации,В обработке,2000
+M00968,2027-11-01,printer,EQUIP36180,2027-09-19,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 21 дней эксплуатации,В обработке,0
+M00969,2027-11-02,nas,EQUIP31370,2027-09-13,dust cleaning,Высокая,Обнаружена dust cleaning после 4 дней эксплуатации,В обработке,10000
+M00970,2027-11-04,cisco_router,EQUIP58806,2027-09-20,error log analysis,Высокая,Обнаружена error log analysis после 17 дней эксплуатации,В обработке,1000
+M00971,2027-11-05,ip_phone,EQUIP47825,2027-08-14,port testing,Высокая,Обнаружена port testing после 27 дней эксплуатации,Отклонена,2000
+M00972,2027-11-07,pc,EQUIP36900,2027-10-15,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 1 дней эксплуатации,Новая,10000
+M00973,2027-11-09,cisco_switch,EQUIP87106,2027-08-21,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 26 дней эксплуатации,Новая,1000
+M00974,2027-11-11,cisco_switch,EQUIP52088,2027-10-07,error log analysis,Высокая,Обнаружена error log analysis после 20 дней эксплуатации,Новая,1000
+M00975,2027-11-12,pc,EQUIP14890,2027-09-02,software update,Высокая,Обнаружена software update после 4 дней эксплуатации,Новая,10000
+M00976,2027-11-14,ip_phone,EQUIP61490,2027-09-12,port testing,Средняя,Обнаружена port testing после 12 дней эксплуатации,В обработке,2000
+M00977,2027-11-16,pc,EQUIP89200,2027-08-19,dust cleaning,Высокая,Обнаружена dust cleaning после 17 дней эксплуатации,Новая,2000
+M00978,2027-11-18,cisco_switch,EQUIP50418,2027-08-31,dust cleaning,Средняя,Обнаружена dust cleaning после 23 дней эксплуатации,В обработке,1000
+M00979,2027-11-18,cisco_router,EQUIP82951,2027-09-26,dust cleaning,Средняя,Обнаружена dust cleaning после 1 дней эксплуатации,Отклонена,1000
+M00980,2027-11-18,cisco_switch,EQUIP88469,2027-10-12,error log analysis,Низкая,Обнаружена error log analysis после 13 дней эксплуатации,Решена,10000
+M00981,2027-11-20,cisco_switch,EQUIP93097,2027-11-14,error log analysis,Средняя,Обнаружена error log analysis после 5 дней эксплуатации,В обработке,2000
+M00982,2027-11-21,scaner,EQUIP88190,2027-10-26,dust cleaning,Низкая,Обнаружена dust cleaning после 8 дней эксплуатации,В обработке,1000
+M00983,2027-11-22,cisco_router,EQUIP25649,2027-09-16,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 3 дней эксплуатации,Новая,2000
+M00984,2027-11-24,scaner,EQUIP93105,2027-09-25,port testing,Средняя,Обнаружена port testing после 14 дней эксплуатации,Отклонена,10000
+M00985,2027-11-26,scaner,EQUIP58560,2027-10-08,port testing,Высокая,Обнаружена port testing после 21 дней эксплуатации,Отклонена,10000
+M00986,2027-11-26,pc,EQUIP53979,2027-10-30,software update,Средняя,Обнаружена software update после 22 дней эксплуатации,В обработке,1000
+M00987,2027-11-28,cisco_router,EQUIP15101,2027-08-31,error log analysis,Низкая,Обнаружена error log analysis после 7 дней эксплуатации,Решена,5000
+M00988,2027-11-30,cisco_router,EQUIP44122,2027-11-06,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 12 дней эксплуатации,Новая,5000
+M00989,2027-12-01,printer,EQUIP39797,2027-11-16,dust cleaning,Средняя,Обнаружена dust cleaning после 7 дней эксплуатации,Решена,5000
+M00990,2027-12-02,nas,EQUIP41712,2027-11-21,hardware diagnostics,Низкая,Обнаружена hardware diagnostics после 29 дней эксплуатации,Решена,10000
+M00991,2027-12-03,nas,EQUIP82850,2027-09-07,error log analysis,Высокая,Обнаружена error log analysis после 7 дней эксплуатации,Отклонена,1000
+M00992,2027-12-03,nas,EQUIP20664,2027-11-19,software update,Низкая,Обнаружена software update после 7 дней эксплуатации,Новая,2000
+M00993,2027-12-05,ip_phone,EQUIP41617,2027-09-30,software update,Низкая,Обнаружена software update после 15 дней эксплуатации,Новая,2000
+M00994,2027-12-06,ip_phone,EQUIP62891,2027-11-27,software update,Высокая,Обнаружена software update после 27 дней эксплуатации,В обработке,5000
+M00995,2027-12-07,ip_phone,EQUIP13379,2027-11-29,thermalpaste replace,Средняя,Обнаружена thermalpaste replace после 23 дней эксплуатации,В обработке,0
+M00996,2027-12-08,nas,EQUIP72902,2027-11-26,thermalpaste replace,Низкая,Обнаружена thermalpaste replace после 29 дней эксплуатации,Решена,2000
+M00997,2027-12-09,cisco_switch,EQUIP48224,2027-10-22,dust cleaning,Низкая,Обнаружена dust cleaning после 14 дней эксплуатации,Решена,0
+M00998,2027-12-09,scaner,EQUIP59109,2027-10-24,software update,Высокая,Обнаружена software update после 18 дней эксплуатации,Отклонена,2000
+M00999,2027-12-09,pc,EQUIP64019,2027-11-01,hardware diagnostics,Высокая,Обнаружена hardware diagnostics после 17 дней эксплуатации,В обработке,10000
+M01000,2027-12-09,scaner,EQUIP25171,2027-10-24,error log analysis,Низкая,Обнаружена error log analysis после 7 дней эксплуатации,Отклонена,10000
